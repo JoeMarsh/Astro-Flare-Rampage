@@ -1,0 +1,62 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:ec="clr-namespace:Microsoft.Expression.Interactivity.Core;assembly=Microsoft.Expression.Interactions" 
+    x:Class="Astro_Flare_XNASilverlight.Page1"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="Landscape"
+    mc:Ignorable="d" d:DesignHeight="480" d:DesignWidth="800"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0"/>
+            <RowDefinition Height="480*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" >
+        	<Image Source="MenuBackground1.jpg" Stretch="Fill"/>
+        	<TextBlock x:Name="Score" HorizontalAlignment="Left" Height="101" Margin="96,48,0,0" TextWrapping="Wrap" Text="Score:" VerticalAlignment="Top" Width="182" Loaded="Score_Loaded" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Pericles" />
+        	<TextBlock x:Name="EnemiesKilled" HorizontalAlignment="Left" Margin="96,153,0,229" TextWrapping="Wrap" Text="Enemies Killed:" Width="202" Loaded="EnemiesKilled_Loaded" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Pericles" />
+        	<TextBlock x:Name="CoinsCollected" HorizontalAlignment="Left" Height="86" Margin="96,0,0,139" TextWrapping="Wrap" Text="Coins Collected:" VerticalAlignment="Bottom" Width="218" Loaded="CoinsCollected_Loaded" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Pericles" />
+        	<TextBlock HorizontalAlignment="Right" Margin="0,77,71,167" TextWrapping="Wrap" Width="288" FontSize="21.333" TextAlignment="Center" x:Name="TopScoresTextBlock" Loaded="TopScoresTextBlock_Loaded" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Pericles"><Run Text="Top Scores:"/><LineBreak/><Run/></TextBlock>
+        	<Button x:Name="MainMenuButton" Content="Main Menu" HorizontalAlignment="Left" Height="69" Margin="96,0,0,37" VerticalAlignment="Bottom" Width="288" Style="{StaticResource AstroFlareButtonTemplate}" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Andy" FontSize="32">
+        		<i:Interaction.Triggers>
+        			<i:EventTrigger EventName="Click">
+        				<ec:NavigateToPageAction TargetPage="/MainPage.xaml"/>
+        			</i:EventTrigger>
+        		</i:Interaction.Triggers>
+        	</Button>
+        	<Button x:Name="PlayAgainButton" Content="Play Again" HorizontalAlignment="Right" Height="69" Margin="0,0,71,37" VerticalAlignment="Bottom" Width="288" Style="{StaticResource AstroFlareButtonTemplate}" FontSize="32" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Andy">
+        		<i:Interaction.Triggers>
+        			<i:EventTrigger EventName="Click">
+        				<ec:NavigateToPageAction TargetPage="/GamePage.xaml"/>
+        			</i:EventTrigger>
+        		</i:Interaction.Triggers>
+        	</Button>
+        </Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

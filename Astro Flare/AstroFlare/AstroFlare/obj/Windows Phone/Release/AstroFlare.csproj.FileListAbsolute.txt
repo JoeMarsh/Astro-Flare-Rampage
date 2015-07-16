@@ -1,0 +1,283 @@
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\blank.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\gradient.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Title.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\Stars2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\BackgroundClouds2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\laser_green.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Particles\Particle004.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\boss1_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\boss1_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\energy_bomb.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\Stars3.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Particles\hitParticle.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\coin5.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\stars4.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\starWhite.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\cloudlayer1.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_claw_bottom.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_claw_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_spike_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_spike_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player1_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player1_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugdagger1_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugdagger1_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugdagger2_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugdagger2_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugdagger3_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugdagger3_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship1_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship1_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship2_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship2_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship3_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship3_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship4_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship4_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player2_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player2_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Textures\Fill22.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\graypinkship_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\graypinkship_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Powerup\powerup_add_projectile.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Powerup\powerup_speed.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Powerup\powerup_missile.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\blueship2_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\blueship2_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\cloudlayer2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\Stars5.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_avoider_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_avoider_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player3_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player3_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player3_base_test.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Shield.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MultiHud.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\laser_red.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\menufont.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\gamefont.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Tahoma14.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Andy18.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Andy22.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Andy48.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Andy14.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\BeforeTheStorm.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\giantrobotsfighting.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\BeforeTheStorm.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\giantrobotsfighting.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\AstroFlare.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\AstroFlare.pdb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\EasyStorage.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\OpenXLive.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\OpenXLive.Form.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\ProjectMercury.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\obj\Windows Phone\Release\AstroFlare.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\obj\Windows Phone\Release\AstroFlare.pdb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\obj\Windows Phone\Release\WMAppManifest.xml
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\AstroFlare.xap
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\stars6.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\stars7.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\stars8.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\Stars.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\stars9.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\nova2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Buttons\B_Transparent.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Buttons\B_Round.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\ship1.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MenuBackground6.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MenuBackground2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MenuBackground1.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MenuBackground4.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MenuBackground5.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_shooter_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_shooter_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\ship2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\ship3.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_interceptor_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_interceptor_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\laser_white.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\laser_ship2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\laser_ship3.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\ScrollIndicator.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\menufontsmall.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\SoundEffects\Powerup\FX1.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\AgainstTheOdds.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\AgainstTheOdds.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Pericles.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\SoundEffects\Shot2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\SoundEffects\Explosions\explodeice3.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\holo.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\survival.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\holo.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\survival.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\thumbstick2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\phaser.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Powerup\powerup_laser.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Powerup\powerup_shields.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Powerup\powerup_time.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Instructions.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Buttons\B_TransparentSmall.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\BackgroundPanel.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\stars10.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\LeaderboardBackground.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MenuBackground3.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\menufont12.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\GalacticStruggle.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\ThroughTheStars.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\GalacticStruggle.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\ThroughTheStars.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Buttons\B_TransparentMedium.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Andy16.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Pericles10.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Pericles22.xnb
+bin\Windows Phone\Release\
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\UIdescriptionBG.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\UIdescription.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\ScrollIndicatorHoriz.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Instructions2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\obj\Windows Phone\Release\AstroFlare.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\blank.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\gradient.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Title.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Powerup\powerup_add_projectile.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Powerup\powerup_missile.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Powerup\powerup_speed.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_avoider_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_avoider_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\Stars2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\BackgroundClouds2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\laser_green.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Particles\Particle004.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\boss1_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\boss1_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\energy_bomb.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\Stars3.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Particles\hitParticle.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\coin5.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\stars4.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\starWhite.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\cloudlayer1.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_claw_bottom.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_claw_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_spike_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_spike_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player1_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player1_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugdagger1_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugdagger1_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugdagger2_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugdagger2_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugdagger3_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugdagger3_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship1_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship1_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship2_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship2_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship3_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship3_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship4_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\bugship4_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player2_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player2_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Textures\Fill22.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\graypinkship_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\graypinkship_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\blueship2_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\blueship2_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\cloudlayer2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\Stars5.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player3_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player3_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\player3_base_test.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Shield.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MultiHud.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\laser_red.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\stars6.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\stars7.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\stars8.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\Stars.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\stars9.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\nova2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Buttons\B_Transparent.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Buttons\B_Round.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\ship1.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MenuBackground6.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MenuBackground2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MenuBackground1.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MenuBackground4.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MenuBackground5.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_shooter_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_shooter_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\ship2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\ship3.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_interceptor_base.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Ships\enemy_interceptor_top.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\laser_white.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\laser_ship2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\laser_ship3.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\ScrollIndicator.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\thumbstick2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\phaser.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Powerup\powerup_laser.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Powerup\powerup_shields.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Powerup\powerup_time.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Instructions.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Buttons\B_TransparentSmall.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\BackgroundPanel.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Background\stars10.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\LeaderboardBackground.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\MenuBackground3.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Buttons\B_TransparentMedium.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\UIdescriptionBG.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\UIdescription.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\ScrollIndicatorHoriz.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\GameScreens\Instructions2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\menufont.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\gamefont.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Tahoma14.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Andy18.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Andy22.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Andy48.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Andy16.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\menufontsmall.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Pericles.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\menufont12.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Pericles10.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Andy14.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Fonts\Pericles22.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\SoundEffects\Powerup\FX1.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\SoundEffects\Shot2.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\SoundEffects\Explosions\explodeice3.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\AgainstTheOdds.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\BeforeTheStorm.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\GalacticStruggle.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\giantrobotsfighting.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\holo.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\survival.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\ThroughTheStars.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\AgainstTheOdds.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\BeforeTheStorm.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\GalacticStruggle.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\giantrobotsfighting.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\holo.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\survival.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\Content\Music\ThroughTheStars.wma
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\AstroFlare.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\AstroFlare.pdb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\EasyStorage.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\OpenXLive.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\OpenXLive.Form.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\ProjectMercury.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\obj\Windows Phone\Release\AstroFlare.pdb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\obj\Windows Phone\Release\WMAppManifest.xml
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\bin\Windows Phone\Release\AstroFlare.xap
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare - Copy\AstroFlare\AstroFlare\obj\Windows Phone\Release\XapCacheFile.xml

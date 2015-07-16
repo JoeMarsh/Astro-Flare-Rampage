@@ -1,0 +1,128 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:el="clr-namespace:Microsoft.Expression.Interactivity.Layout;assembly=Microsoft.Expression.Interactions" 
+    xmlns:ec="clr-namespace:Microsoft.Expression.Interactivity.Core;assembly=Microsoft.Expression.Interactions" 
+    xmlns:local="clr-namespace:Astro_Flare_XNASilverlight" 
+    x:Class="Astro_Flare_XNASilverlight.MainPage"
+    mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="480"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="Landscape"
+    shell:SystemTray.IsVisible="False">
+
+
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <Image x:Name="Background" Grid.RowSpan="2" Source="MenuBackground1.jpg" Stretch="Fill"/>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="0,17,0,0" Height="124" VerticalAlignment="Top"/>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="8,20,16,0">
+            
+            <!--Create a single button to navigate to the second page which is rendered with the XNA Framework-->
+            <Button Content="Play" Click="Button_Click" Margin="258,-15,261,0" Height="80" VerticalAlignment="Top" BorderBrush="{x:Null}" Foreground="White" BorderThickness="1" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Andy" FontSize="48" Style="{StaticResource AstroFlareButtonTemplate}" >
+            	<Button.Background>
+            		<ImageBrush Stretch="Fill" ImageSource="B_Transparent.png"/>
+            	</Button.Background>
+            	<i:Interaction.Behaviors>
+            		<el:MouseDragElementBehavior/>
+            	</i:Interaction.Behaviors>
+            </Button>
+            <Button Content="Skiller Store" Margin="56,132,0,123" Click="Button_Click_1" HorizontalAlignment="Left" Width="166" BorderBrush="{x:Null}" Style="{StaticResource AstroFlareButtonTemplate}" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Andy" >
+            	<Button.Background>
+            		<ImageBrush Stretch="Fill" ImageSource="B_Transparent.png"/>
+            	</Button.Background>
+            	<i:Interaction.Behaviors>
+            		<el:MouseDragElementBehavior/>
+            	</i:Interaction.Behaviors>
+            </Button>
+            <Button Content="Leaderboards" Margin="0,132,52,123" Click="Button_Click_2" HorizontalAlignment="Right" Width="159" BorderBrush="{x:Null}" Style="{StaticResource AstroFlareButtonTemplate}" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Andy" >
+            	<Button.Background>
+            		<ImageBrush Stretch="Fill" ImageSource="B_Transparent.png"/>
+            	</Button.Background>
+            	<i:Interaction.Behaviors>
+            		<el:MouseDragElementBehavior/>
+            	</i:Interaction.Behaviors>
+            </Button>
+        </Grid>
+        <Button Content="Options" Margin="299,0,301,94" Grid.Row="1" BorderBrush="{x:Null}" Style="{StaticResource AstroFlareButtonTemplate}" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Andy" Height="65" VerticalAlignment="Bottom">
+        	<Button.Background>
+        		<ImageBrush Stretch="Fill" ImageSource="B_Transparent.png"/>
+        	</Button.Background>
+        	<i:Interaction.Triggers>
+        		<i:EventTrigger EventName="Click">
+        			<ec:NavigateToPageAction TargetPage="/Options.xaml"/>
+        		</i:EventTrigger>
+        	</i:Interaction.Triggers>
+        </Button>
+        <Button Content="Credits" Margin="64,0,0,47" Grid.Row="1" BorderBrush="{x:Null}" Style="{StaticResource AstroFlareButtonTemplate}" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Andy" HorizontalAlignment="Left" Width="169" Height="72" VerticalAlignment="Bottom">
+        	<Button.Background>
+        		<ImageBrush Stretch="Fill" ImageSource="B_Transparent.png"/>
+        	</Button.Background>
+        	<i:Interaction.Triggers>
+        		<i:EventTrigger EventName="Click">
+        			<ec:NavigateToPageAction TargetPage="/Credits.xaml"/>
+        		</i:EventTrigger>
+        	</i:Interaction.Triggers>
+        </Button>
+        <Button Content="Instructions" Margin="299,0,301,29" Grid.Row="1" BorderBrush="{x:Null}" Style="{StaticResource AstroFlareButtonTemplate}" Height="61" VerticalAlignment="Bottom" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Andy">
+        	<Button.Background>
+        		<ImageBrush Stretch="Fill" ImageSource="B_Transparent.png"/>
+        	</Button.Background>
+        	<i:Interaction.Triggers>
+        		<i:EventTrigger EventName="Click">
+        			<ec:NavigateToPageAction TargetPage="/Instructions.xaml"/>
+        		</i:EventTrigger>
+        	</i:Interaction.Triggers>
+        </Button>
+        <Image Margin="163,55,153,37" Source="Title.png" Stretch="Fill"/>
+        <Button Content="Rate the Game" HorizontalAlignment="Right" Margin="0,0,66,47" Grid.Row="1" Width="159" Height="72" VerticalAlignment="Bottom" BorderBrush="{x:Null}" Style="{StaticResource AstroFlareButtonTemplate}" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Andy">
+        	<Button.Background>
+        		<ImageBrush Stretch="Fill" ImageSource="B_Transparent.png"/>
+        	</Button.Background>
+        	<i:Interaction.Triggers>
+        		<i:EventTrigger EventName="Click">
+        			<local:MarketPlaceSearchAction SearchTerm="Astro Flare - Rampage"/>
+        		</i:EventTrigger>
+        	</i:Interaction.Triggers>
+        </Button>
+        <Button Content="Ship Upgrades" Margin="299,0,301,163" Height="71" VerticalAlignment="Bottom" BorderBrush="{x:Null}" Grid.Row="1" Style="{StaticResource AstroFlareButtonTemplate}" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Andy">
+        	<Button.Background>
+        		<ImageBrush Stretch="Fill" ImageSource="B_Transparent.png"/>
+        	</Button.Background>
+        	<i:Interaction.Triggers>
+        		<i:EventTrigger EventName="Click">
+        			<ec:NavigateToPageAction TargetPage="/ShipUpgrades.xaml"/>
+        		</i:EventTrigger>
+        	</i:Interaction.Triggers>
+        </Button>
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

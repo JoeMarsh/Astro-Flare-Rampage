@@ -1,0 +1,1514 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\blank.xnb</Output>
+      <Time>2012-02-29T14:51:39.7591286+00:00</Time>
+    </Item>
+    <Item>
+      <Source>buddy2.png</Source>
+      <Name>buddy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\buddy2.xnb</Output>
+      <Time>2012-02-29T14:51:39.7601286+00:00</Time>
+    </Item>
+    <Item>
+      <Source>coin5.png</Source>
+      <Name>coin5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\coin5.xnb</Output>
+      <Time>2012-02-29T14:51:39.7621287+00:00</Time>
+    </Item>
+    <Item>
+      <Source>double_flame.png</Source>
+      <Name>double_flame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\double_flame.xnb</Output>
+      <Time>2012-02-29T14:51:39.7631288+00:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy_projectile_transparent.png</Source>
+      <Name>enemy_projectile_transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\enemy_projectile_transparent.xnb</Output>
+      <Time>2012-02-29T14:51:39.7641289+00:00</Time>
+    </Item>
+    <Item>
+      <Source>energy_bomb.png</Source>
+      <Name>energy_bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\energy_bomb.xnb</Output>
+      <Time>2012-02-29T14:51:39.7651289+00:00</Time>
+    </Item>
+    <Item>
+      <Source>energy_purple.png</Source>
+      <Name>energy_purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\energy_purple.xnb</Output>
+      <Time>2012-02-29T14:51:39.766129+00:00</Time>
+    </Item>
+    <Item>
+      <Source>energy_wave.png</Source>
+      <Name>energy_wave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\energy_wave.xnb</Output>
+      <Time>2012-02-29T14:51:39.767129+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\gradient.xnb</Output>
+      <Time>2012-02-29T14:51:39.7691291+00:00</Time>
+    </Item>
+    <Item>
+      <Source>heal.png</Source>
+      <Name>heal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\heal.xnb</Output>
+      <Time>2012-02-29T14:51:39.7711293+00:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_blue_double.png</Source>
+      <Name>laser_blue_double</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\laser_blue_double.xnb</Output>
+      <Time>2012-02-29T14:51:39.7721293+00:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_green.png</Source>
+      <Name>laser_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\laser_green.xnb</Output>
+      <Time>2012-02-29T14:51:39.7741294+00:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_red.png</Source>
+      <Name>laser_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\laser_red.xnb</Output>
+      <Time>2012-02-29T14:51:39.7751295+00:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_ship2.png</Source>
+      <Name>laser_ship2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\laser_ship2.xnb</Output>
+      <Time>2012-02-29T14:51:39.7761295+00:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_ship3.png</Source>
+      <Name>laser_ship3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\laser_ship3.xnb</Output>
+      <Time>2012-02-29T14:51:39.7771296+00:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_white.png</Source>
+      <Name>laser_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\laser_white.xnb</Output>
+      <Time>2012-02-29T14:51:39.7781297+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Missile1.png</Source>
+      <Name>Missile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Missile1.xnb</Output>
+      <Time>2012-02-29T14:51:39.9001366+00:00</Time>
+    </Item>
+    <Item>
+      <Source>phaser.png</Source>
+      <Name>phaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\phaser.xnb</Output>
+      <Time>2012-02-29T14:51:39.906137+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Shield.png</Source>
+      <Name>Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Shield.xnb</Output>
+      <Time>2012-02-29T14:51:39.9121373+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Shield2.png</Source>
+      <Name>Shield2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Shield2.xnb</Output>
+      <Time>2012-02-29T14:51:39.9191377+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ship_projectile.png</Source>
+      <Name>ship_projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\ship_projectile.xnb</Output>
+      <Time>2012-02-29T14:51:39.9251381+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sidearm.png</Source>
+      <Name>sidearm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\sidearm.xnb</Output>
+      <Time>2012-02-29T14:51:39.9311384+00:00</Time>
+    </Item>
+    <Item>
+      <Source>thumbstick.png</Source>
+      <Name>thumbstick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\thumbstick.xnb</Output>
+      <Time>2012-02-29T14:51:39.9381388+00:00</Time>
+    </Item>
+    <Item>
+      <Source>thumbstick2.png</Source>
+      <Name>thumbstick2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\thumbstick2.xnb</Output>
+      <Time>2012-02-29T14:51:39.9441392+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\BackgroundClouds2.jpg</Source>
+      <Name>Background\BackgroundClouds2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\BackgroundClouds2.xnb</Output>
+      <Time>2012-02-29T14:52:00.2803023+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\BackgroundClouds2_2.jpg</Source>
+      <Name>Background\BackgroundClouds2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\BackgroundClouds2_2.xnb</Output>
+      <Time>2012-02-29T14:52:00.2813024+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\cloudlayer1.jpg</Source>
+      <Name>Background\cloudlayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\cloudlayer1.xnb</Output>
+      <Time>2012-02-29T14:52:00.2833025+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\cloudlayer2.jpg</Source>
+      <Name>Background\cloudlayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\cloudlayer2.xnb</Output>
+      <Time>2012-02-29T14:52:00.2853026+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\LeaderboardBackground.jpg</Source>
+      <Name>Background\LeaderboardBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\LeaderboardBackground.xnb</Output>
+      <Time>2012-02-29T14:52:00.2863027+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\nova.jpg</Source>
+      <Name>Background\nova</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\nova.xnb</Output>
+      <Time>2012-02-29T14:52:00.2873027+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\nova2.jpg</Source>
+      <Name>Background\nova2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\nova2.xnb</Output>
+      <Time>2012-02-29T14:52:00.2883028+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Stars.jpg</Source>
+      <Name>Background\Stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\Stars.xnb</Output>
+      <Time>2012-02-29T14:52:00.2903029+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars10.jpg</Source>
+      <Name>Background\stars10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\stars10.xnb</Output>
+      <Time>2012-02-29T14:52:00.2993034+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars10_2.jpg</Source>
+      <Name>Background\stars10_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\stars10_2.xnb</Output>
+      <Time>2012-02-29T14:52:00.3013035+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Stars2.jpg</Source>
+      <Name>Background\Stars2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\Stars2.xnb</Output>
+      <Time>2012-02-29T14:52:00.2903029+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Stars3.jpg</Source>
+      <Name>Background\Stars3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\Stars3.xnb</Output>
+      <Time>2012-02-29T14:52:00.2913029+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars4.jpg</Source>
+      <Name>Background\stars4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\stars4.xnb</Output>
+      <Time>2012-02-29T14:52:00.292303+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Stars5.jpg</Source>
+      <Name>Background\Stars5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\Stars5.xnb</Output>
+      <Time>2012-02-29T14:52:00.2933031+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars6.jpg</Source>
+      <Name>Background\stars6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\stars6.xnb</Output>
+      <Time>2012-02-29T14:52:00.2943031+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars7.jpg</Source>
+      <Name>Background\stars7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\stars7.xnb</Output>
+      <Time>2012-02-29T14:52:00.2963032+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars8.jpg</Source>
+      <Name>Background\stars8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\stars8.xnb</Output>
+      <Time>2012-02-29T14:52:00.2973033+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars9.jpg</Source>
+      <Name>Background\stars9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\stars9.xnb</Output>
+      <Time>2012-02-29T14:52:00.2983033+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\starWhite.png</Source>
+      <Name>Background\starWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\starWhite.xnb</Output>
+      <Time>2012-02-29T14:52:00.3023036+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\tempbackground.jpg</Source>
+      <Name>Background\tempbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Background\tempbackground.xnb</Output>
+      <Time>2012-02-29T14:52:00.3033036+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\AlterEgo.png</Source>
+      <Name>GameScreens\AlterEgo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\AlterEgo.xnb</Output>
+      <Time>2012-02-29T14:52:20.2384439+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\asScreenBackgroundLight.jpg</Source>
+      <Name>GameScreens\asScreenBackgroundLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\asScreenBackgroundLight.xnb</Output>
+      <Time>2012-02-29T14:52:20.2394439+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\BackgroundPanel.png</Source>
+      <Name>GameScreens\BackgroundPanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\BackgroundPanel.xnb</Output>
+      <Time>2012-02-29T14:52:20.240444+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Extermination.png</Source>
+      <Name>GameScreens\Extermination</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\Extermination.xnb</Output>
+      <Time>2012-02-29T14:52:20.241444+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Instructions - Copy.png</Source>
+      <Name>GameScreens\Instructions - Copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\Instructions - Copy.xnb</Output>
+      <Time>2012-02-29T14:52:20.2424441+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Instructions.png</Source>
+      <Name>GameScreens\Instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\Instructions.xnb</Output>
+      <Time>2012-02-29T14:52:20.2434441+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Instructions2.png</Source>
+      <Name>GameScreens\Instructions2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\Instructions2.xnb</Output>
+      <Time>2012-02-29T14:52:20.2444442+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\LeaderboardBackground.jpg</Source>
+      <Name>GameScreens\LeaderboardBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\LeaderboardBackground.xnb</Output>
+      <Time>2012-02-29T14:52:20.2444442+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MenuBackground1.jpg</Source>
+      <Name>GameScreens\MenuBackground1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\MenuBackground1.xnb</Output>
+      <Time>2012-02-29T14:52:20.2464443+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MenuBackground2.jpg</Source>
+      <Name>GameScreens\MenuBackground2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\MenuBackground2.xnb</Output>
+      <Time>2012-02-29T14:52:20.2474444+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MenuBackground3.jpg</Source>
+      <Name>GameScreens\MenuBackground3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\MenuBackground3.xnb</Output>
+      <Time>2012-02-29T14:52:20.2484444+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MenuBackground4.jpg</Source>
+      <Name>GameScreens\MenuBackground4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\MenuBackground4.xnb</Output>
+      <Time>2012-02-29T14:52:20.2494445+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MenuBackground5.jpg</Source>
+      <Name>GameScreens\MenuBackground5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\MenuBackground5.xnb</Output>
+      <Time>2012-02-29T14:52:20.2514446+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MenuBackground6.jpg</Source>
+      <Name>GameScreens\MenuBackground6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\MenuBackground6.xnb</Output>
+      <Time>2012-02-29T14:52:20.2524447+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MultiHud.png</Source>
+      <Name>GameScreens\MultiHud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\MultiHud.xnb</Output>
+      <Time>2012-02-29T14:52:20.2534447+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MultiHud2.png</Source>
+      <Name>GameScreens\MultiHud2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\MultiHud2.xnb</Output>
+      <Time>2012-02-29T14:52:20.2544448+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\oldUIdescription.jpg</Source>
+      <Name>GameScreens\oldUIdescription</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\oldUIdescription.xnb</Output>
+      <Time>2012-02-29T14:52:20.2564449+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ScreenBackgroundDark.jpg</Source>
+      <Name>GameScreens\ScreenBackgroundDark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\ScreenBackgroundDark.xnb</Output>
+      <Time>2012-02-29T14:52:20.2574449+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ScreenBackgroundLight.jpg</Source>
+      <Name>GameScreens\ScreenBackgroundLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\ScreenBackgroundLight.xnb</Output>
+      <Time>2012-02-29T14:52:20.258445+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ScreenBackgroundNoShadow.jpg</Source>
+      <Name>GameScreens\ScreenBackgroundNoShadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\ScreenBackgroundNoShadow.xnb</Output>
+      <Time>2012-02-29T14:52:20.2594451+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ScrollIndicator.png</Source>
+      <Name>GameScreens\ScrollIndicator</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\ScrollIndicator.xnb</Output>
+      <Time>2012-02-29T14:52:20.4014532+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ScrollIndicatorHoriz.png</Source>
+      <Name>GameScreens\ScrollIndicatorHoriz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\ScrollIndicatorHoriz.xnb</Output>
+      <Time>2012-02-29T14:52:20.4084536+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ship1.png</Source>
+      <Name>GameScreens\ship1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\ship1.xnb</Output>
+      <Time>2012-02-29T14:52:20.415454+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ship2.png</Source>
+      <Name>GameScreens\ship2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\ship2.xnb</Output>
+      <Time>2012-02-29T14:52:20.4224544+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ship3.png</Source>
+      <Name>GameScreens\ship3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\ship3.xnb</Output>
+      <Time>2012-02-29T14:52:20.4284547+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ShipSelection.png</Source>
+      <Name>GameScreens\ShipSelection</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\ShipSelection.xnb</Output>
+      <Time>2012-02-29T14:52:20.4354551+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Title.png</Source>
+      <Name>GameScreens\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\Title.xnb</Output>
+      <Time>2012-02-29T14:52:20.4434556+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\UIdescription.png</Source>
+      <Name>GameScreens\UIdescription</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\UIdescription.xnb</Output>
+      <Time>2012-02-29T14:52:20.450456+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\UIdescriptionBG.jpg</Source>
+      <Name>GameScreens\UIdescriptionBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\UIdescriptionBG.xnb</Output>
+      <Time>2012-02-29T14:52:20.4584564+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\UpgradeMenu.jpg</Source>
+      <Name>GameScreens\UpgradeMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\UpgradeMenu.xnb</Output>
+      <Time>2012-02-29T14:52:20.4664569+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\UpgradeMenu2.jpg</Source>
+      <Name>GameScreens\UpgradeMenu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\UpgradeMenu2.xnb</Output>
+      <Time>2012-02-29T14:52:20.4744574+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Buttons\B_Blank.png</Source>
+      <Name>GameScreens\Buttons\B_Blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\Buttons\B_Blank.xnb</Output>
+      <Time>2012-02-29T14:52:32.6491537+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Buttons\B_Blue.png</Source>
+      <Name>GameScreens\Buttons\B_Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\Buttons\B_Blue.xnb</Output>
+      <Time>2012-02-29T14:52:32.6591543+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Buttons\B_Green.png</Source>
+      <Name>GameScreens\Buttons\B_Green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\Buttons\B_Green.xnb</Output>
+      <Time>2012-02-29T14:52:32.6601543+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Buttons\B_Round.png</Source>
+      <Name>GameScreens\Buttons\B_Round</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\Buttons\B_Round.xnb</Output>
+      <Time>2012-02-29T14:52:32.6601543+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Buttons\B_Transparent.png</Source>
+      <Name>GameScreens\Buttons\B_Transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\Buttons\B_Transparent.xnb</Output>
+      <Time>2012-02-29T14:52:32.6611544+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Buttons\B_TransparentMedium.png</Source>
+      <Name>GameScreens\Buttons\B_TransparentMedium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\Buttons\B_TransparentMedium.xnb</Output>
+      <Time>2012-02-29T14:52:32.6631545+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Buttons\B_TransparentSmall.png</Source>
+      <Name>GameScreens\Buttons\B_TransparentSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\GameScreens\Buttons\B_TransparentSmall.xnb</Output>
+      <Time>2012-02-29T14:52:32.6631545+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Beam.png</Source>
+      <Name>Particles\Beam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\Beam.xnb</Output>
+      <Time>2012-02-29T14:52:57.4065697+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Cloud001.png</Source>
+      <Name>Particles\Cloud001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\Cloud001.xnb</Output>
+      <Time>2012-02-29T14:52:57.4075698+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Cloud002.png</Source>
+      <Name>Particles\Cloud002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\Cloud002.xnb</Output>
+      <Time>2012-02-29T14:52:57.4085699+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\hitParticle.png</Source>
+      <Name>Particles\hitParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\hitParticle.xnb</Output>
+      <Time>2012-02-29T14:52:57.4095699+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Particle004.png</Source>
+      <Name>Particles\Particle004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\Particle004.xnb</Output>
+      <Time>2012-02-29T14:52:57.41057+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Particle005.png</Source>
+      <Name>Particles\Particle005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\Particle005.xnb</Output>
+      <Time>2012-02-29T14:52:57.41157+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Particle007.png</Source>
+      <Name>Particles\Particle007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\Particle007.xnb</Output>
+      <Time>2012-02-29T14:52:57.4125701+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Ring002.png</Source>
+      <Name>Particles\Ring002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\Ring002.xnb</Output>
+      <Time>2012-02-29T14:52:57.4135701+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Star.png</Source>
+      <Name>Particles\Star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\Star.xnb</Output>
+      <Time>2012-02-29T14:52:57.4145702+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Star2.png</Source>
+      <Name>Particles\Star2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\Star2.xnb</Output>
+      <Time>2012-02-29T14:52:57.4155703+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Temp\Cloud002.png</Source>
+      <Name>Particles\Temp\Cloud002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\Temp\Cloud002.xnb</Output>
+      <Time>2012-02-29T14:53:08.2401894+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Temp\Particle005.png</Source>
+      <Name>Particles\Temp\Particle005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\Temp\Particle005.xnb</Output>
+      <Time>2012-02-29T14:53:08.2411895+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Temp\Ring002.png</Source>
+      <Name>Particles\Temp\Ring002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Particles\Temp\Ring002.xnb</Output>
+      <Time>2012-02-29T14:53:08.2421895+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\burstwave_powerup.png</Source>
+      <Name>Powerup\burstwave_powerup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\burstwave_powerup.xnb</Output>
+      <Time>2012-02-29T14:53:26.0302069+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\lightning.png</Source>
+      <Name>Powerup\lightning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\lightning.xnb</Output>
+      <Time>2012-02-29T14:53:26.0332071+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_add_projectile.png</Source>
+      <Name>Powerup\powerup_add_projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_add_projectile.xnb</Output>
+      <Time>2012-02-29T14:53:26.0352072+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_bullet.png</Source>
+      <Name>Powerup\powerup_bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_bullet.xnb</Output>
+      <Time>2012-02-29T14:53:26.0362073+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_circle.png</Source>
+      <Name>Powerup\powerup_circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_circle.xnb</Output>
+      <Time>2012-02-29T14:53:26.0372073+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_health.png</Source>
+      <Name>Powerup\powerup_health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_health.xnb</Output>
+      <Time>2012-02-29T14:53:26.0382074+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_laser.png</Source>
+      <Name>Powerup\powerup_laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_laser.xnb</Output>
+      <Time>2012-02-29T14:53:26.0392074+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_missile.png</Source>
+      <Name>Powerup\powerup_missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_missile.xnb</Output>
+      <Time>2012-02-29T14:53:26.0402075+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_missiles.png</Source>
+      <Name>Powerup\powerup_missiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_missiles.xnb</Output>
+      <Time>2012-02-29T14:53:26.0422076+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_shields.png</Source>
+      <Name>Powerup\powerup_shields</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_shields.xnb</Output>
+      <Time>2012-02-29T14:53:26.0432077+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_speed.png</Source>
+      <Name>Powerup\powerup_speed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_speed.xnb</Output>
+      <Time>2012-02-29T14:53:26.0442077+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_time.png</Source>
+      <Name>Powerup\powerup_time</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_time.xnb</Output>
+      <Time>2012-02-29T14:53:26.048208+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_time3.png</Source>
+      <Name>Powerup\powerup_time3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_time3.xnb</Output>
+      <Time>2012-02-29T14:53:26.049208+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_time4.png</Source>
+      <Name>Powerup\powerup_time4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_time4.xnb</Output>
+      <Time>2012-02-29T14:53:26.0502081+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_time5.png</Source>
+      <Name>Powerup\powerup_time5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_time5.xnb</Output>
+      <Time>2012-02-29T14:53:26.0512081+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_time6.png</Source>
+      <Name>Powerup\powerup_time6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_time6.xnb</Output>
+      <Time>2012-02-29T14:53:26.0522082+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_time7.png</Source>
+      <Name>Powerup\powerup_time7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Powerup\powerup_time7.xnb</Output>
+      <Time>2012-02-29T14:53:26.0532082+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\blueship2_base.png</Source>
+      <Name>Ships\blueship2_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\blueship2_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.7197611+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\blueship2_top.png</Source>
+      <Name>Ships\blueship2_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\blueship2_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.7207612+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\boss1_base.png</Source>
+      <Name>Ships\boss1_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\boss1_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.7217613+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\boss1_top.png</Source>
+      <Name>Ships\boss1_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\boss1_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.7227613+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugdagger1_base.png</Source>
+      <Name>Ships\bugdagger1_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugdagger1_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.7237614+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugdagger1_top.png</Source>
+      <Name>Ships\bugdagger1_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugdagger1_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.7247614+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugdagger2_base.png</Source>
+      <Name>Ships\bugdagger2_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugdagger2_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.7257615+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugdagger2_top.png</Source>
+      <Name>Ships\bugdagger2_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugdagger2_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.7267615+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugdagger3_base.png</Source>
+      <Name>Ships\bugdagger3_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugdagger3_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.7277616+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugdagger3_top.png</Source>
+      <Name>Ships\bugdagger3_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugdagger3_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.7287617+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship1_base.png</Source>
+      <Name>Ships\bugship1_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugship1_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.7297617+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship1_top.png</Source>
+      <Name>Ships\bugship1_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugship1_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.7307618+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship2_base.png</Source>
+      <Name>Ships\bugship2_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugship2_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.7317618+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship2_top.png</Source>
+      <Name>Ships\bugship2_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugship2_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.7327619+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship3_base.png</Source>
+      <Name>Ships\bugship3_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugship3_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.7337619+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship3_top.png</Source>
+      <Name>Ships\bugship3_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugship3_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.734762+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship4_base.png</Source>
+      <Name>Ships\bugship4_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugship4_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.7357621+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship4_top.png</Source>
+      <Name>Ships\bugship4_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\bugship4_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.7367621+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_avoider_base.png</Source>
+      <Name>Ships\enemy_avoider_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\enemy_avoider_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.7377622+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_avoider_top.png</Source>
+      <Name>Ships\enemy_avoider_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\enemy_avoider_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.7387622+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_claw_bottom.png</Source>
+      <Name>Ships\enemy_claw_bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\enemy_claw_bottom.xnb</Output>
+      <Time>2012-02-29T14:53:35.909772+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_claw_top.png</Source>
+      <Name>Ships\enemy_claw_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\enemy_claw_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.9187725+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_interceptor_base.png</Source>
+      <Name>Ships\enemy_interceptor_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\enemy_interceptor_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.927773+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_interceptor_top.png</Source>
+      <Name>Ships\enemy_interceptor_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\enemy_interceptor_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.9377736+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_shooter_base.png</Source>
+      <Name>Ships\enemy_shooter_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\enemy_shooter_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.9467741+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_shooter_top.png</Source>
+      <Name>Ships\enemy_shooter_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\enemy_shooter_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.9557746+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_spike_base.png</Source>
+      <Name>Ships\enemy_spike_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\enemy_spike_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.9657752+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_spike_top.png</Source>
+      <Name>Ships\enemy_spike_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\enemy_spike_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.9747757+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\graypinkship_base.png</Source>
+      <Name>Ships\graypinkship_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\graypinkship_base.xnb</Output>
+      <Time>2012-02-29T14:53:35.9847763+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\graypinkship_top.png</Source>
+      <Name>Ships\graypinkship_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\graypinkship_top.xnb</Output>
+      <Time>2012-02-29T14:53:35.9937768+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player1_base.png</Source>
+      <Name>Ships\player1_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\player1_base.xnb</Output>
+      <Time>2012-02-29T14:53:36.0037774+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player1_top.png</Source>
+      <Name>Ships\player1_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\player1_top.xnb</Output>
+      <Time>2012-02-29T14:53:36.0127779+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player2_base.png</Source>
+      <Name>Ships\player2_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\player2_base.xnb</Output>
+      <Time>2012-02-29T14:53:36.0227785+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player2_top.png</Source>
+      <Name>Ships\player2_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\player2_top.xnb</Output>
+      <Time>2012-02-29T14:53:36.031779+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player3_base.png</Source>
+      <Name>Ships\player3_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\player3_base.xnb</Output>
+      <Time>2012-02-29T14:53:36.0437797+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player3_base_test.png</Source>
+      <Name>Ships\player3_base_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\player3_base_test.xnb</Output>
+      <Time>2012-02-29T14:53:36.0527802+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player3_top.png</Source>
+      <Name>Ships\player3_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Ships\player3_top.xnb</Output>
+      <Time>2012-02-29T14:53:36.0627808+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Fill22.png</Source>
+      <Name>Textures\Fill22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Textures\Fill22.xnb</Output>
+      <Time>2012-02-29T14:54:41.0885+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\gamefont.xnb</Output>
+      <Time>2012-02-29T14:51:39.7681291+00:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\menufont.xnb</Output>
+      <Time>2012-02-29T14:51:39.7791297+00:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont12.spritefont</Source>
+      <Name>menufont12</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\menufont12.xnb</Output>
+      <Time>2012-02-29T14:51:39.7801298+00:00</Time>
+    </Item>
+    <Item>
+      <Source>menufontsmall.spritefont</Source>
+      <Name>menufontsmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\menufontsmall.xnb</Output>
+      <Time>2012-02-29T14:51:39.7811298+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Andy14.spritefont</Source>
+      <Name>Fonts\Andy14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Fonts\Andy14.xnb</Output>
+      <Time>2012-02-29T14:52:09.1528098+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Andy16.spritefont</Source>
+      <Name>Fonts\Andy16</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Fonts\Andy16.xnb</Output>
+      <Time>2012-02-29T14:52:09.15581+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Andy18.spritefont</Source>
+      <Name>Fonts\Andy18</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Fonts\Andy18.xnb</Output>
+      <Time>2012-02-29T14:52:09.1588101+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Andy22.spritefont</Source>
+      <Name>Fonts\Andy22</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Fonts\Andy22.xnb</Output>
+      <Time>2012-02-29T14:52:09.1598102+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Andy48.spritefont</Source>
+      <Name>Fonts\Andy48</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Fonts\Andy48.xnb</Output>
+      <Time>2012-02-29T14:52:09.1618103+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Pericles.spritefont</Source>
+      <Name>Fonts\Pericles</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Fonts\Pericles.xnb</Output>
+      <Time>2012-02-29T14:52:09.1628104+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Pericles10.spritefont</Source>
+      <Name>Fonts\Pericles10</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Fonts\Pericles10.xnb</Output>
+      <Time>2012-02-29T14:52:09.1638104+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Pericles22.spritefont</Source>
+      <Name>Fonts\Pericles22</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Fonts\Pericles22.xnb</Output>
+      <Time>2012-02-29T14:52:09.1648105+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tahoma14.spritefont</Source>
+      <Name>Fonts\Tahoma14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\Fonts\Tahoma14.xnb</Output>
+      <Time>2012-02-29T14:52:09.1658105+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{665B2668-C4BE-4662-A01F-58951312ECD8}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLibContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joe\documents\visual studio 2010\Projects\Astro Flare XNASilverlight\Astro Flare XNASilverlight\Astro Flare XNASilverlightLib\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-10-16T01:20:49.7577138+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

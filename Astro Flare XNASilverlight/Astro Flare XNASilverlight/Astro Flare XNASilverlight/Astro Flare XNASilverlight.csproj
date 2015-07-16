@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CDBEBA3B-17DE-4873-A277-87DCBF238CAB}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Astro_Flare_XNASilverlight</RootNamespace>
+    <AssemblyName>Astro Flare - Rampage</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>Astro_Flare_XNASilverlight.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>Astro_Flare_XNASilverlight.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <Utf8Output>true</Utf8Output>
+    <ExpressionBlendVersion>4.0.30816.0</ExpressionBlendVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Advertising.Mobile" />
+    <Reference Include="Microsoft.Advertising.Mobile.UI" />
+    <Reference Include="Microsoft.Devices.Sensors" />
+    <Reference Include="Microsoft.Expression.Controls" />
+    <Reference Include="Microsoft.Expression.Drawing" />
+    <Reference Include="Microsoft.Expression.Interactions" />
+    <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Controls, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Game" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch" />
+    <Reference Include="Microsoft.Xna.Framework.Interop" />
+    <Reference Include="mscorlib.extensions" />
+    <Reference Include="ProjectMercury">
+      <HintPath>Bin\ProjectMercury.dll</HintPath>
+    </Reference>
+    <Reference Include="SkillerSDK">
+      <HintPath>Bin\SkillerSDK.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Interactivity" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml.Serialization" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AppServiceProvider.cs">
+      <DependentUpon>GamePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CalibratePage.xaml.cs">
+      <DependentUpon>CalibratePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Credits.xaml.cs">
+      <DependentUpon>Credits.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Engine\Accelerometer\AccelerometerHelper.cs" />
+    <Compile Include="Engine\Accelerometer\ApplicationSettingHelper.cs" />
+    <Compile Include="Engine\Accelerometer\DeviceOrientationInfo.cs" />
+    <Compile Include="Engine\Accelerometer\OrientationHelper.cs" />
+    <Compile Include="Engine\Accelerometer\Tilt.cs" />
+    <Compile Include="Engine\Bar.cs" />
+    <Compile Include="Engine\Camera2D.cs" />
+    <Compile Include="Engine\CollisionManager.cs" />
+    <Compile Include="Engine\Events.cs" />
+    <Compile Include="Engine\FixedVirtualThumbstick.cs" />
+    <Compile Include="Engine\GlobalSave.cs" />
+    <Compile Include="Engine\LineBatch.cs" />
+    <Compile Include="Engine\MemoryMonitor.cs" />
+    <Compile Include="Engine\Node.cs" />
+    <Compile Include="Engine\ParticleEffects.cs" />
+    <Compile Include="Engine\Accelerometer\Simple3DVector.cs" />
+    <Compile Include="Engine\SoundEffectManager.cs" />
+    <Compile Include="Engine\Sounds.cs" />
+    <Compile Include="Engine\Sprite.cs" />
+    <Compile Include="Engine\SpriteFontFloatScore.cs" />
+    <Compile Include="Engine\SpriteSheet.cs" />
+    <Compile Include="Engine\Steering.cs" />
+    <Compile Include="Engine\Timer.cs" />
+    <Compile Include="Engine\VectorPolygon.cs" />
+    <Compile Include="Engine\VirtualThumbsticks.cs" />
+    <Compile Include="Game\Attachment.cs" />
+    <Compile Include="Game\Buddy.cs" />
+    <Compile Include="Game\BuddyMissile.cs" />
+    <Compile Include="Game\Config.cs" />
+    <Compile Include="Game\EffectNode.cs" />
+    <Compile Include="Game\Enemy.cs" />
+    <Compile Include="Game\EnemyPlayerShield.cs" />
+    <Compile Include="Game\GameNode.cs" />
+    <Compile Include="Game\ParticleMethods.cs" />
+    <Compile Include="Game\Player.cs" />
+    <Compile Include="Game\PlayerShield.cs" />
+    <Compile Include="Game\RecursiveShipFire.cs" />
+    <Compile Include="Game\Ship.cs" />
+    <Compile Include="Game\Sidearm.cs" />
+    <Compile Include="Game\StarField.cs" />
+    <Compile Include="Instructions.xaml.cs">
+      <DependentUpon>Instructions.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Levels\Demo.cs" />
+    <Compile Include="Levels\Level1.cs" />
+    <Compile Include="Levels\Level2.cs" />
+    <Compile Include="Levels\Level3.cs" />
+    <Compile Include="Levels\Level4.cs" />
+    <Compile Include="Levels\Level5.cs" />
+    <Compile Include="Levels\Level6.cs" />
+    <Compile Include="Levels\Level9.cs" />
+    <Compile Include="Levels\Practise.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Behaviors\MarketPlaceDetailsAction.cs" />
+    <Compile Include="Behaviors\MarketPlaceReviewAction.cs" />
+    <Compile Include="Behaviors\MarketPlaceSearchAction.cs" />
+    <Compile Include="Options.xaml.cs">
+      <DependentUpon>Options.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LevelSelect2.xaml.cs">
+      <DependentUpon>LevelSelect2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ScoreScreen.xaml.cs">
+      <DependentUpon>ScoreScreen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Powerup\Coin.cs" />
+    <Compile Include="Powerup\Powerup.cs" />
+    <Compile Include="Powerup\PowerupAddBullet.cs" />
+    <Compile Include="Powerup\PowerupAddBulletEnemy.cs" />
+    <Compile Include="Powerup\PowerupDamageAll.cs" />
+    <Compile Include="Powerup\PowerupDoubleShot.cs" />
+    <Compile Include="Powerup\PowerupEnemy.cs" />
+    <Compile Include="Powerup\PowerupFreeze.cs" />
+    <Compile Include="Powerup\PowerupHealth.cs" />
+    <Compile Include="Powerup\PowerupLaserDefence.cs" />
+    <Compile Include="Powerup\PowerupMissiles.cs" />
+    <Compile Include="Powerup\PowerupShields.cs" />
+    <Compile Include="Powerup\PowerupShotSpeed.cs" />
+    <Compile Include="Powerup\PowerupSlowAll.cs" />
+    <Compile Include="Powerup\PowerupTripleShot.cs" />
+    <Compile Include="Powerup\PowerupWeaponAutoBurst.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GamePage.xaml.cs">
+      <DependentUpon>GamePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Behaviors\SendEmailAction.cs" />
+    <Compile Include="Ships\boss1.cs" />
+    <Compile Include="Ships\EnemyAvoider.cs" />
+    <Compile Include="Ships\EnemyChaser.cs" />
+    <Compile Include="Ships\EnemyDasher.cs" />
+    <Compile Include="Ships\EnemyInterceptor.cs" />
+    <Compile Include="Ships\EnemyPlayerShip.cs" />
+    <Compile Include="Ships\EnemyShooter.cs" />
+    <Compile Include="Ships\Level2\Bug1.cs" />
+    <Compile Include="Ships\Level2\Bug2.cs" />
+    <Compile Include="Ships\Level2\Bug3.cs" />
+    <Compile Include="Ships\Level2\Bug4.cs" />
+    <Compile Include="Ships\Level2\BugDagger1.cs" />
+    <Compile Include="Ships\Level2\BugDagger2.cs" />
+    <Compile Include="Ships\Level2\BugDagger3.cs" />
+    <Compile Include="Ships\PlayerShip.cs" />
+    <Compile Include="ShipUpgrades.xaml.cs">
+      <DependentUpon>ShipUpgrades.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Temp\Sprite.cs" />
+    <Compile Include="Weapons\AoEWeaponBurstWave.cs" />
+    <Compile Include="Weapons\Laser.cs" />
+    <Compile Include="Weapons\oldWeaponAutoWave.cs" />
+    <Compile Include="Weapons\Projectiles\AIProjectile.cs" />
+    <Compile Include="Weapons\Projectiles\AIProjectileBullet.cs" />
+    <Compile Include="Weapons\Projectiles\AIProjectileMissile.cs" />
+    <Compile Include="Weapons\Projectiles\bossProjectileBullet.cs" />
+    <Compile Include="Weapons\Projectiles\enemyProjectile.cs" />
+    <Compile Include="Weapons\Projectiles\enemyProjectileBullet.cs" />
+    <Compile Include="Weapons\Projectiles\enemyProjectileMissile.cs" />
+    <Compile Include="Weapons\Projectiles\Projectile.cs" />
+    <Compile Include="Weapons\Projectiles\ProjectileBullet.cs" />
+    <Compile Include="Weapons\Projectiles\ProjectileBulletGreenBeam.cs" />
+    <Compile Include="Weapons\Projectiles\ProjectileExplode.cs" />
+    <Compile Include="Weapons\Projectiles\ProjectileFriend.cs" />
+    <Compile Include="Weapons\Projectiles\ProjectileMelter.cs" />
+    <Compile Include="Weapons\Projectiles\ProjectileMissile.cs" />
+    <Compile Include="Weapons\Projectiles\queueBullet.cs" />
+    <Compile Include="Weapons\Projectiles\shooterProjectileBullet.cs" />
+    <Compile Include="Weapons\Weapon.cs" />
+    <Compile Include="Weapons\WeaponAuto.cs" />
+    <Compile Include="Weapons\WeaponAutoBurst.cs" />
+    <Compile Include="Weapons\WeaponBurst.cs" />
+    <Compile Include="Weapons\WeaponBurstWave.cs" />
+    <Compile Include="Weapons\WeaponSingle.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="CalibratePage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Credits.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Instructions.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GamePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Options.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LevelSelect2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ScoreScreen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShipUpgrades.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AgainstTheOdds.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="BeforeTheStorm.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Duplicate.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="explodeice3.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FX1.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GalacticStruggle.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Incineration.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Shot2.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SplashScreenImage.jpg" />
+    <Content Include="ThroughTheStars.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="WhereSpaceDoesThingsInStyle.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Astro Flare XNASilverlightLib\Astro Flare XNASilverlightLib.csproj">
+      <Project>{F53C08C2-0D4D-48EC-88A0-95CB4FAA87CA}</Project>
+      <Name>Astro Flare XNASilverlightLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="B_Blank.png" />
+    <Resource Include="B_Transparent.png" />
+    <Resource Include="B_TransparentClick.png" />
+    <Resource Include="B_TransparentMedium.png" />
+    <BlendEmbeddedFont Include="Fonts\andyb.ttf">
+      <IsSystemFont>True</IsSystemFont>
+      <All>True</All>
+      <AutoFill>True</AutoFill>
+      <Characters>
+      </Characters>
+      <Uppercase>True</Uppercase>
+      <Lowercase>True</Lowercase>
+      <Numbers>True</Numbers>
+      <Punctuation>True</Punctuation>
+    </BlendEmbeddedFont>
+    <BlendEmbeddedFont Include="Fonts\Peric.ttf">
+      <IsSystemFont>True</IsSystemFont>
+      <All>True</All>
+      <AutoFill>True</AutoFill>
+      <Characters>
+      </Characters>
+      <Uppercase>True</Uppercase>
+      <Lowercase>True</Lowercase>
+      <Numbers>True</Numbers>
+      <Punctuation>True</Punctuation>
+    </BlendEmbeddedFont>
+    <Resource Include="Instructions.png" />
+    <Resource Include="Instructions2.png" />
+    <Resource Include="MenuBackground1.jpg" />
+    <Resource Include="MenuBackground2.jpg" />
+    <Resource Include="MenuBackground3.jpg" />
+    <Resource Include="MenuBackground4.jpg" />
+    <Resource Include="MenuBackground5.jpg" />
+    <Resource Include="MenuBackground6.jpg" />
+    <Resource Include="player1.png" />
+    <Resource Include="player1_top.png" />
+    <Resource Include="player2.png" />
+    <Resource Include="player2_top.png" />
+    <Resource Include="player3.png" />
+    <Resource Include="player3_top.png" />
+    <Resource Include="powerup_add_projectile.png" />
+    <Resource Include="powerup_laser.png" />
+    <Resource Include="powerup_missile.png" />
+    <Resource Include="powerup_shields.png" />
+    <Resource Include="powerup_speed.png" />
+    <Resource Include="Title.png" />
+    <Resource Include="UIdescription.png" />
+    <Resource Include="UIdescriptionBG.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Expression\Blend\WindowsPhone\v7.1\Microsoft.Expression.Blend.WindowsPhone.targets" />
+</Project>

@@ -1,0 +1,1088 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\blank.xnb</Output>
+      <Time>2011-07-03T15:40:47.0910988+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\gradient.xnb</Output>
+      <Time>2011-07-03T15:40:47.0930989+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Title.png</Source>
+      <Name>GameScreens\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\Title.xnb</Output>
+      <Time>2011-07-03T16:43:49.2684269+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Stars2.jpg</Source>
+      <Name>Background\Stars2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\Stars2.xnb</Output>
+      <Time>2011-07-03T19:41:04.7627424+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\BackgroundClouds2.jpg</Source>
+      <Name>Background\BackgroundClouds2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\BackgroundClouds2.xnb</Output>
+      <Time>2011-07-05T13:27:49.6962243+01:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_green.png</Source>
+      <Name>laser_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\laser_green.xnb</Output>
+      <Time>2011-07-15T20:38:09.1668187+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Particle004.png</Source>
+      <Name>Particles\Particle004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Particles\Particle004.xnb</Output>
+      <Time>2011-07-07T01:02:19.2415599+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\boss1_base.png</Source>
+      <Name>Ships\boss1_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\boss1_base.xnb</Output>
+      <Time>2011-07-16T22:24:50.2585302+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\boss1_top.png</Source>
+      <Name>Ships\boss1_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\boss1_top.xnb</Output>
+      <Time>2011-07-16T22:23:44.620776+01:00</Time>
+    </Item>
+    <Item>
+      <Source>energy_bomb.png</Source>
+      <Name>energy_bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\energy_bomb.xnb</Output>
+      <Time>2011-07-07T14:40:30.3813743+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Stars3.jpg</Source>
+      <Name>Background\Stars3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\Stars3.xnb</Output>
+      <Time>2011-07-09T03:18:39.8073441+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\hitParticle.png</Source>
+      <Name>Particles\hitParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Particles\hitParticle.xnb</Output>
+      <Time>2011-07-10T02:47:35.3703023+01:00</Time>
+    </Item>
+    <Item>
+      <Source>coin5.png</Source>
+      <Name>coin5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\coin5.xnb</Output>
+      <Time>2011-07-15T20:38:56.9515518+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars4.jpg</Source>
+      <Name>Background\stars4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\stars4.xnb</Output>
+      <Time>2011-07-15T18:57:15.4935684+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\starWhite.png</Source>
+      <Name>Background\starWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\starWhite.xnb</Output>
+      <Time>2011-07-15T19:25:24.150154+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\cloudlayer1.jpg</Source>
+      <Name>Background\cloudlayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\cloudlayer1.xnb</Output>
+      <Time>2011-07-15T20:09:38.7789901+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_claw_bottom.png</Source>
+      <Name>Ships\enemy_claw_bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\enemy_claw_bottom.xnb</Output>
+      <Time>2011-07-21T22:12:27.586458+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_claw_top.png</Source>
+      <Name>Ships\enemy_claw_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\enemy_claw_top.xnb</Output>
+      <Time>2011-07-16T22:23:23.8485879+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_spike_base.png</Source>
+      <Name>Ships\enemy_spike_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\enemy_spike_base.xnb</Output>
+      <Time>2011-07-16T22:28:12.5080982+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_spike_top.png</Source>
+      <Name>Ships\enemy_spike_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\enemy_spike_top.xnb</Output>
+      <Time>2011-07-15T20:28:55.3381415+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player1_base.png</Source>
+      <Name>Ships\player1_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\player1_base.xnb</Output>
+      <Time>2011-07-15T20:32:28.6393416+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player1_top.png</Source>
+      <Name>Ships\player1_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\player1_top.xnb</Output>
+      <Time>2011-07-16T22:23:01.4263054+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugdagger1_base.png</Source>
+      <Name>Ships\bugdagger1_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugdagger1_base.xnb</Output>
+      <Time>2011-08-18T00:21:44.0926063+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugdagger1_top.png</Source>
+      <Name>Ships\bugdagger1_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugdagger1_top.xnb</Output>
+      <Time>2011-07-16T22:25:20.4892593+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugdagger2_base.png</Source>
+      <Name>Ships\bugdagger2_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugdagger2_base.xnb</Output>
+      <Time>2011-08-18T00:23:13.3667125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugdagger2_top.png</Source>
+      <Name>Ships\bugdagger2_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugdagger2_top.xnb</Output>
+      <Time>2011-07-16T22:24:09.3021876+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugdagger3_base.png</Source>
+      <Name>Ships\bugdagger3_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugdagger3_base.xnb</Output>
+      <Time>2011-08-18T00:24:37.3055135+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugdagger3_top.png</Source>
+      <Name>Ships\bugdagger3_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugdagger3_top.xnb</Output>
+      <Time>2011-07-16T23:01:37.9458027+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship1_base.png</Source>
+      <Name>Ships\bugship1_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugship1_base.xnb</Output>
+      <Time>2011-08-18T00:25:33.5517306+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship1_top.png</Source>
+      <Name>Ships\bugship1_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugship1_top.xnb</Output>
+      <Time>2011-07-16T22:26:41.4488899+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship2_base.png</Source>
+      <Name>Ships\bugship2_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugship2_base.xnb</Output>
+      <Time>2011-08-18T00:26:27.6208232+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship2_top.png</Source>
+      <Name>Ships\bugship2_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugship2_top.xnb</Output>
+      <Time>2011-07-16T22:24:27.9712555+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship3_base.png</Source>
+      <Name>Ships\bugship3_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugship3_base.xnb</Output>
+      <Time>2011-08-18T00:27:23.9540453+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship3_top.png</Source>
+      <Name>Ships\bugship3_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugship3_top.xnb</Output>
+      <Time>2011-07-16T01:18:46.3608511+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship4_base.png</Source>
+      <Name>Ships\bugship4_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugship4_base.xnb</Output>
+      <Time>2011-08-18T00:28:15.823012+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\bugship4_top.png</Source>
+      <Name>Ships\bugship4_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\bugship4_top.xnb</Output>
+      <Time>2011-07-16T22:29:28.7094567+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player2_base.png</Source>
+      <Name>Ships\player2_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\player2_base.xnb</Output>
+      <Time>2011-08-10T14:39:42.2044302+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player2_top.png</Source>
+      <Name>Ships\player2_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\player2_top.xnb</Output>
+      <Time>2011-08-10T14:38:04.0458957+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Fill22.png</Source>
+      <Name>Textures\Fill22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Textures\Fill22.xnb</Output>
+      <Time>2011-07-19T00:01:31.8313523+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\graypinkship_base.png</Source>
+      <Name>Ships\graypinkship_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\graypinkship_base.xnb</Output>
+      <Time>2011-07-19T18:55:44.521412+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\graypinkship_top.png</Source>
+      <Name>Ships\graypinkship_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\graypinkship_top.xnb</Output>
+      <Time>2011-07-16T23:00:05.7635302+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_add_projectile.png</Source>
+      <Name>Powerup\powerup_add_projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Powerup\powerup_add_projectile.xnb</Output>
+      <Time>2011-07-20T01:05:45.0262083+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_speed.png</Source>
+      <Name>Powerup\powerup_speed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Powerup\powerup_speed.xnb</Output>
+      <Time>2011-07-20T01:01:17.0048783+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_missile.png</Source>
+      <Name>Powerup\powerup_missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Powerup\powerup_missile.xnb</Output>
+      <Time>2011-08-23T22:21:07.9258586+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\menufont.xnb</Output>
+      <Time>2011-08-30T19:12:53.1081608+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\gamefont.xnb</Output>
+      <Time>2011-08-30T19:12:53.1021605+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\BeforeTheStorm.mp3</Source>
+      <Name>Music\BeforeTheStorm</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\BeforeTheStorm.xnb</Output>
+      <Extra>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\BeforeTheStorm.wma</Extra>
+      <Time>2011-08-27T20:38:44.726844+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\blueship2_base.png</Source>
+      <Name>Ships\blueship2_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\blueship2_base.xnb</Output>
+      <Time>2011-07-21T22:10:48.297779+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\blueship2_top.png</Source>
+      <Name>Ships\blueship2_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\blueship2_top.xnb</Output>
+      <Time>2011-07-21T22:09:42.6360234+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\cloudlayer2.jpg</Source>
+      <Name>Background\cloudlayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\cloudlayer2.xnb</Output>
+      <Time>2011-07-21T19:02:45.4124349+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Stars5.jpg</Source>
+      <Name>Background\Stars5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\Stars5.xnb</Output>
+      <Time>2011-07-21T19:14:15.4219012+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_avoider_top.png</Source>
+      <Name>Ships\enemy_avoider_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\enemy_avoider_top.xnb</Output>
+      <Time>2011-08-10T14:21:24.8960556+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_avoider_base.png</Source>
+      <Name>Ships\enemy_avoider_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\enemy_avoider_base.xnb</Output>
+      <Time>2011-08-10T14:23:02.9322097+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player3_base.png</Source>
+      <Name>Ships\player3_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\player3_base.xnb</Output>
+      <Time>2011-08-10T14:46:57.8243463+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player3_top.png</Source>
+      <Name>Ships\player3_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\player3_top.xnb</Output>
+      <Time>2011-08-10T14:45:39.0358398+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\player3_base_test.png</Source>
+      <Name>Ships\player3_base_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\player3_base_test.xnb</Output>
+      <Time>2011-07-24T21:33:13.5416341+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Shield.png</Source>
+      <Name>Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Shield.xnb</Output>
+      <Time>2011-07-26T22:33:20.7666038+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MultiHud.png</Source>
+      <Name>GameScreens\MultiHud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\MultiHud.xnb</Output>
+      <Time>2011-07-27T07:15:01.9949316+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tahoma14.spritefont</Source>
+      <Name>Fonts\Tahoma14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Fonts\Tahoma14.xnb</Output>
+      <Time>2011-08-30T19:12:53.0611581+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Andy18.spritefont</Source>
+      <Name>Fonts\Andy18</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Fonts\Andy18.xnb</Output>
+      <Time>2011-08-30T19:12:53.0891597+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Andy22.spritefont</Source>
+      <Name>Fonts\Andy22</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Fonts\Andy22.xnb</Output>
+      <Time>2011-08-30T19:12:53.0821593+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Andy48.spritefont</Source>
+      <Name>Fonts\Andy48</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Fonts\Andy48.xnb</Output>
+      <Time>2011-08-30T19:12:53.0751589+01:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_red.png</Source>
+      <Name>laser_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\laser_red.xnb</Output>
+      <Time>2011-07-30T20:15:45.95364+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars6.jpg</Source>
+      <Name>Background\stars6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\stars6.xnb</Output>
+      <Time>2011-08-05T21:58:30.6087446+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars7.jpg</Source>
+      <Name>Background\stars7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\stars7.xnb</Output>
+      <Time>2011-08-05T22:00:14.1586674+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars8.jpg</Source>
+      <Name>Background\stars8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\stars8.xnb</Output>
+      <Time>2011-08-07T02:35:57.2924389+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Stars.jpg</Source>
+      <Name>Background\Stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\Stars.xnb</Output>
+      <Time>2011-06-19T19:37:39.4417838+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars9.jpg</Source>
+      <Name>Background\stars9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\stars9.xnb</Output>
+      <Time>2011-08-07T03:03:26.5837729+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\nova2.jpg</Source>
+      <Name>Background\nova2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\nova2.xnb</Output>
+      <Time>2011-08-07T03:15:31.6032417+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Buttons\B_Transparent.png</Source>
+      <Name>GameScreens\Buttons\B_Transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\Buttons\B_Transparent.xnb</Output>
+      <Time>2011-08-07T17:40:07.6136903+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Buttons\B_Round.png</Source>
+      <Name>GameScreens\Buttons\B_Round</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\Buttons\B_Round.xnb</Output>
+      <Time>2011-08-09T18:04:38.0368503+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ship1.png</Source>
+      <Name>GameScreens\ship1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\ship1.xnb</Output>
+      <Time>2011-08-09T22:59:49.4198319+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MenuBackground6.jpg</Source>
+      <Name>GameScreens\MenuBackground6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\MenuBackground6.xnb</Output>
+      <Time>2011-08-09T23:33:04.5102426+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MenuBackground2.jpg</Source>
+      <Name>GameScreens\MenuBackground2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\MenuBackground2.xnb</Output>
+      <Time>2011-08-10T00:20:36.2473527+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MenuBackground1.jpg</Source>
+      <Name>GameScreens\MenuBackground1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\MenuBackground1.xnb</Output>
+      <Time>2011-08-10T00:41:04.8306236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MenuBackground4.jpg</Source>
+      <Name>GameScreens\MenuBackground4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\MenuBackground4.xnb</Output>
+      <Time>2011-08-28T20:52:22.9396429+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MenuBackground5.jpg</Source>
+      <Name>GameScreens\MenuBackground5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\MenuBackground5.xnb</Output>
+      <Time>2011-08-10T00:45:53.9911626+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_shooter_base.png</Source>
+      <Name>Ships\enemy_shooter_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\enemy_shooter_base.xnb</Output>
+      <Time>2011-07-24T01:53:06.3011229+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_shooter_top.png</Source>
+      <Name>Ships\enemy_shooter_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\enemy_shooter_top.xnb</Output>
+      <Time>2011-07-24T01:52:18.8414084+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ship2.png</Source>
+      <Name>GameScreens\ship2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\ship2.xnb</Output>
+      <Time>2011-08-10T14:44:54.3392833+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ship3.png</Source>
+      <Name>GameScreens\ship3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\ship3.xnb</Output>
+      <Time>2011-08-11T16:12:18.1571492+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_interceptor_base.png</Source>
+      <Name>Ships\enemy_interceptor_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\enemy_interceptor_base.xnb</Output>
+      <Time>2011-08-11T03:20:12.8494871+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemy_interceptor_top.png</Source>
+      <Name>Ships\enemy_interceptor_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Ships\enemy_interceptor_top.xnb</Output>
+      <Time>2011-08-11T03:17:41.7368439+01:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_white.png</Source>
+      <Name>laser_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\laser_white.xnb</Output>
+      <Time>2011-08-11T15:44:27.7056048+01:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_ship2.png</Source>
+      <Name>laser_ship2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\laser_ship2.xnb</Output>
+      <Time>2011-08-11T16:18:16.898668+01:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_ship3.png</Source>
+      <Name>laser_ship3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\laser_ship3.xnb</Output>
+      <Time>2011-08-11T15:54:32.1901793+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menufontsmall.spritefont</Source>
+      <Name>menufontsmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\menufontsmall.xnb</Output>
+      <Time>2011-08-30T19:12:53.1211616+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\ScrollIndicator.png</Source>
+      <Name>GameScreens\ScrollIndicator</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\ScrollIndicator.xnb</Output>
+      <Time>2011-08-11T20:13:43.808681+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Powerup\FX1.wav</Source>
+      <Name>SoundEffects\Powerup\FX1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\SoundEffects\Powerup\FX1.xnb</Output>
+      <Time>2010-07-12T19:17:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\AgainstTheOdds.mp3</Source>
+      <Name>Music\AgainstTheOdds</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\AgainstTheOdds.xnb</Output>
+      <Extra>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\AgainstTheOdds.wma</Extra>
+      <Time>2011-08-27T20:40:59.1175307+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Shot2.wav</Source>
+      <Name>SoundEffects\Shot2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\SoundEffects\Shot2.xnb</Output>
+      <Time>2011-08-17T20:28:23.3238082+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Explosions\explodeice3.wav</Source>
+      <Name>SoundEffects\Explosions\explodeice3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\SoundEffects\Explosions\explodeice3.xnb</Output>
+      <Time>2011-08-17T20:49:57.2308154+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\holo.mp3</Source>
+      <Name>Music\holo</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\holo.xnb</Output>
+      <Extra>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\holo.wma</Extra>
+      <Time>2011-08-27T20:36:00.6204577+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\survival.mp3</Source>
+      <Name>Music\survival</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\survival.xnb</Output>
+      <Extra>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\survival.wma</Extra>
+      <Time>2011-08-27T20:37:32.8887351+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Pericles.spritefont</Source>
+      <Name>Fonts\Pericles</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Fonts\Pericles.xnb</Output>
+      <Time>2011-08-30T19:12:53.0691586+01:00</Time>
+    </Item>
+    <Item>
+      <Source>thumbstick2.png</Source>
+      <Name>thumbstick2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\thumbstick2.xnb</Output>
+      <Time>2011-08-19T03:00:13.4521616+01:00</Time>
+    </Item>
+    <Item>
+      <Source>phaser.png</Source>
+      <Name>phaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\phaser.xnb</Output>
+      <Time>2011-08-21T01:02:10.0292394+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_laser.png</Source>
+      <Name>Powerup\powerup_laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Powerup\powerup_laser.xnb</Output>
+      <Time>2011-07-20T01:09:27.3119223+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_shields.png</Source>
+      <Name>Powerup\powerup_shields</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Powerup\powerup_shields.xnb</Output>
+      <Time>2011-08-23T21:32:52.9012727+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerup\powerup_time.png</Source>
+      <Name>Powerup\powerup_time</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Powerup\powerup_time.xnb</Output>
+      <Time>2011-08-23T23:01:44.8852447+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Instructions.png</Source>
+      <Name>GameScreens\Instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\Instructions.xnb</Output>
+      <Time>2011-09-12T19:03:17.8811704+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont12.spritefont</Source>
+      <Name>menufont12</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\menufont12.xnb</Output>
+      <Time>2011-08-30T19:12:53.1151612+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\GalacticStruggle.mp3</Source>
+      <Name>Music\GalacticStruggle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\GalacticStruggle.xnb</Output>
+      <Extra>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\GalacticStruggle.wma</Extra>
+      <Time>2011-08-27T20:43:27.2360026+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\ThroughTheStars.mp3</Source>
+      <Name>Music\ThroughTheStars</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\ThroughTheStars.xnb</Output>
+      <Extra>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\ThroughTheStars.wma</Extra>
+      <Time>2011-08-27T20:46:43.1312072+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\giantrobotsfighting.mp3</Source>
+      <Name>Music\giantrobotsfighting</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\giantrobotsfighting.xnb</Output>
+      <Extra>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Music\giantrobotsfighting.wma</Extra>
+      <Time>2011-07-12T18:10:13.0533195+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Buttons\B_TransparentSmall.png</Source>
+      <Name>GameScreens\Buttons\B_TransparentSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\Buttons\B_TransparentSmall.xnb</Output>
+      <Time>2011-08-27T23:14:48.199404+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\BackgroundPanel.png</Source>
+      <Name>GameScreens\BackgroundPanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\BackgroundPanel.xnb</Output>
+      <Time>2011-09-12T19:06:23.1657681+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars10.jpg</Source>
+      <Name>Background\stars10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Background\stars10.xnb</Output>
+      <Time>2011-08-28T20:12:23.0864207+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\LeaderboardBackground.jpg</Source>
+      <Name>GameScreens\LeaderboardBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\LeaderboardBackground.xnb</Output>
+      <Time>2011-08-28T20:55:25.8265221+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\MenuBackground3.jpg</Source>
+      <Name>GameScreens\MenuBackground3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\MenuBackground3.xnb</Output>
+      <Time>2011-08-10T00:44:32.5685055+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Pericles10.spritefont</Source>
+      <Name>Fonts\Pericles10</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Fonts\Pericles10.xnb</Output>
+      <Time>2011-09-12T15:55:56.6832727+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Pericles22.spritefont</Source>
+      <Name>Fonts\Pericles22</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Fonts\Pericles22.xnb</Output>
+      <Time>2011-09-12T16:14:39.4904315+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreens\Buttons\B_TransparentMedium.png</Source>
+      <Name>GameScreens\Buttons\B_TransparentMedium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\GameScreens\Buttons\B_TransparentMedium.xnb</Output>
+      <Time>2011-09-12T16:40:35.4074249+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Andy16.spritefont</Source>
+      <Name>Fonts\Andy16</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Fonts\Andy16.xnb</Output>
+      <Time>2011-09-12T17:10:05.5416708+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Andy14.spritefont</Source>
+      <Name>Fonts\Andy14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\Fonts\Andy14.xnb</Output>
+      <Time>2011-09-12T16:10:19.6875717+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlareContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlareContent\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joe\Documents\Visual Studio 2010\Projects\AstroFlare\AstroFlare\AstroFlare\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-25T00:51:21.2679259+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

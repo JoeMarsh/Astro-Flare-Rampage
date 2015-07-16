@@ -1,0 +1,48 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Astro_Flare_XNASilverlight.Credits"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="Landscape"
+    mc:Ignorable="d" d:DesignHeight="480" d:DesignWidth="800"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <Image x:Name="Background" Grid.RowSpan="2" Source="MenuBackground1.jpg" Stretch="Fill"/>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28"/>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0"/>
+        <TextBlock Margin="358,0,12,33" Grid.Row="1" TextWrapping="Wrap" FontSize="18.667" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Andy" TextAlignment="Center" Height="363" VerticalAlignment="Bottom"><Run FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Pericles" Text="Music:" TextDecorations="Underline"/><LineBreak/><Run/><LineBreak/><Run Text="Menu: Before the Storm"/><LineBreak/><Run Text="Rampage: Through the Stars"/><LineBreak/><Run Text="Rampage - Timed: Galactic Struggle"/><LineBreak/><Run Text="Extermination: Against the Odds"/><LineBreak/><Run/><LineBreak/><Run Text="- Brian Doyle (www.brian-doyle.com)"/><LineBreak/><Run/><LineBreak/><Run Text="Alter Ego:"/><Run Text=" Duplicate"/><LineBreak/><Run Text="Alter Ego - Timed:"/><Run Text=" Incineration"/><LineBreak/><Run/><LineBreak/><Run Text="- Marc Balbirnie (www.marcbalbirnie.com)"/><LineBreak/><Run/><LineBreak/><Run Text="Time Bandit: "/><Run Text="Where Space Does Things in Style"/><LineBreak/><Run/><LineBreak/><Run Text="- Gareth"/><Run Text=" McCarthy"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="64,132,0,8" Grid.Row="1" TextWrapping="Wrap" Width="211" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Andy" FontSize="18.667" Foreground="White"><Run FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Pericles" Text="Developer:" TextDecorations="Underline"/><LineBreak/><Run/><LineBreak/><Run Text="Joe Marsh (digitalmarsh@gmail.com)"/><LineBreak/><Run/><LineBreak/><Run FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Pericles" Text="Additional Graphics:" TextDecorations="Underline"/><LineBreak/><Run/><LineBreak/><Run Text="www.opengameart.com"/><LineBreak/><Run/><LineBreak/><Run Text="Philippe Chabot - www.arcengames.com"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="62" Margin="127,29,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Credits" VerticalAlignment="Top" Width="198" FontFamily="/Astro Flare - Rampage;component/Fonts/Fonts.zip#Pericles" FontSize="48"/>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

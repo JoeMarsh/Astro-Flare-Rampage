@@ -1,0 +1,73 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:ec="clr-namespace:Microsoft.Expression.Interactivity.Core;assembly=Microsoft.Expression.Interactions" 
+    x:Class="Astro_Flare_XNASilverlight.LevelSelectPage"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="Landscape"
+    mc:Ignorable="d" d:DesignHeight="480" d:DesignWidth="800"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <Image x:Name="Background" Source="MenuBackground1.jpg" Stretch="Fill" Grid.RowSpan="2"/>
+
+        <!--TitlePanel contains the name of the application and page title-->
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+        	<Button Content="Play" Margin="0,0,85,124" Click="Button_Click" HorizontalAlignment="Right" Width="220" BorderBrush="{x:Null}" Height="82" VerticalAlignment="Bottom">
+        		<Button.Background>
+        			<ImageBrush Stretch="Fill" ImageSource="B_Transparent.png"/>
+        		</Button.Background>
+        		<i:Interaction.Triggers>
+        			<i:EventTrigger EventName="Click">
+        				<ec:NavigateToPageAction TargetPage="/GamePage.xaml"/>
+        			</i:EventTrigger>
+        		</i:Interaction.Triggers>
+        	</Button>
+        	<ListBox x:Name="LevelSelectList" Margin="67,117,0,153" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="239">
+        		<ListBoxItem Content="Rampage" FontSize="24"/>
+        		<ListBoxItem Content="Rampage - Timed" FontSize="24"/>
+        		<ListBoxItem Content="Alter Ego" FontSize="24"/>
+        		<ListBoxItem Content="Alter Ego - Timed" FontSize="24"/>
+        		<ListBoxItem Content="Time Bandit" FontSize="24"/>
+        		<ListBoxItem Content="Extermination" FontSize="24"/>
+        	</ListBox>
+        	<Button Content="Upgrades" HorizontalAlignment="Right" Margin="0,159,85,0" Width="217" Height="78" VerticalAlignment="Top" BorderBrush="{x:Null}">
+        		<Button.Background>
+        			<ImageBrush Stretch="Fill" ImageSource="B_Transparent.png"/>
+        		</Button.Background>
+        		<i:Interaction.Triggers>
+        			<i:EventTrigger EventName="Click">
+        				<ec:NavigateToPageAction TargetPage="/ShipUpgrades.xaml"/>
+        			</i:EventTrigger>
+        		</i:Interaction.Triggers>
+        	</Button></Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

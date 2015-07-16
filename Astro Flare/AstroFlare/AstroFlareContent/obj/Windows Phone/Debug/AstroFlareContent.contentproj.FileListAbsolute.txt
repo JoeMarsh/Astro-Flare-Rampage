@@ -1,0 +1,2 @@
+c:\users\joe\documents\visual studio 2010\Projects\AstroFlare\AstroFlare\AstroFlareContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\200711\AstroFlare\AstroFlare\AstroFlareContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

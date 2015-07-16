@@ -1,0 +1,39 @@
+﻿<!-- Copyright (c) Adam Nathan.  All rights reserved.
+     By purchasing the book that this source code belongs to, you may use and modify this code for commercial and non-commercial applications, but you may not publish the source code.
+     THE SOURCE CODE IS PROVIDED "AS IS", WITH NO WARRANTIES OR INDEMNITIES. -->
+<phone:PhoneApplicationPage 
+    x:Class="Astro_Flare_XNASilverlight.CalibratePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:local="clr-namespace:Astro_Flare_XNASilverlight"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" d:DesignHeight="800" d:DesignWidth="480">
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+
+     <!--The standard header -->
+    <!--<StackPanel Style="{StaticResource PhoneTitlePanelStyle}">
+      <TextBlock x:Name="ApplicationName"
+                 Style="{StaticResource PhoneTextTitle0Style}"/>
+      <TextBlock Text="calibrate" Style="{StaticResource PhoneTextTitle1Style}"/>
+    </StackPanel>-->
+
+    <ScrollViewer Grid.Row="1">
+      <StackPanel>
+        <TextBlock Margin="24" TextWrapping="Wrap" Text="Tap the button when the phone is still and level. This will calibrate your phone's accelerometer for this app, then return to the previous page."/>
+        <Button x:Name="CalibrateButton" Content="calibrate" IsEnabled="False"
+                Height="150" Click="CalibrateButton_Click"
+                local:Tilt.IsEnabled="True"/>
+        <TextBlock x:Name="WarningText" Visibility="Collapsed" Margin="24,0"
+                   TextWrapping="Wrap" FontWeight="Bold"
+                   Text="Your phone is not still or level enough!"/>
+      </StackPanel>
+    </ScrollViewer>
+  </Grid>
+</phone:PhoneApplicationPage>
