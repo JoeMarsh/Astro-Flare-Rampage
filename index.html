@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Astro Flare Rampage - HTML5</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+        #game-container {
+            box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+        }
+        canvas {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div id="game-container"></div>
+
+    <!-- Phaser 3 -->
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.70.0/dist/phaser.min.js"></script>
+
+    <!-- Game Configuration -->
+    <script src="src/config.js"></script>
+
+    <!-- Utilities -->
+    <script src="src/utils/Vector2.js"></script>
+
+    <!-- Base Classes -->
+    <script src="src/classes/Node.js"></script>
+    <script src="src/classes/GameNode.js"></script>
+    <script src="src/classes/Ship.js"></script>
+    <script src="src/classes/PlayerShip.js"></script>
+    <script src="src/classes/Enemy.js"></script>
+    <script src="src/classes/Projectile.js"></script>
+    <script src="src/classes/Powerup.js"></script>
+
+    <!-- Enemy Types -->
+    <script src="src/classes/enemies/EnemyInterceptor.js"></script>
+    <script src="src/classes/enemies/EnemyChaser.js"></script>
+    <script src="src/classes/enemies/EnemyDasher.js"></script>
+    <script src="src/classes/enemies/EnemyAvoider.js"></script>
+    <script src="src/classes/enemies/EnemyShooter.js"></script>
+    <script src="src/classes/enemies/Boss1.js"></script>
+
+    <!-- Powerup Types -->
+    <script src="src/classes/powerups/PowerupHealth.js"></script>
+    <script src="src/classes/powerups/PowerupShields.js"></script>
+    <script src="src/classes/powerups/PowerupDoubleShot.js"></script>
+    <script src="src/classes/powerups/PowerupTripleShot.js"></script>
+    <script src="src/classes/powerups/PowerupMissiles.js"></script>
+    <script src="src/classes/powerups/Coin.js"></script>
+
+    <!-- Game Scenes -->
+    <script src="src/scenes/BootScene.js"></script>
+    <script src="src/scenes/MenuScene.js"></script>
+    <script src="src/scenes/GameScene.js"></script>
+    <script src="src/scenes/GameOverScene.js"></script>
+
+    <!-- Main Game Entry -->
+    <script src="src/game.js"></script>
+</body>
+</html>
