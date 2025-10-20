@@ -32,16 +32,20 @@ class Powerup extends GameNode {
 
     createSprite() {
         const color = this.getPowerupColor();
+        const texKey = `powerup_${this.powerupType}`;
 
-        const graphics = this.scene.add.graphics();
-        graphics.fillStyle(color, 1);
-        graphics.fillCircle(0, 0, 10);
-        graphics.lineStyle(2, 0xffffff, 1);
-        graphics.strokeCircle(0, 0, 10);
-        graphics.generateTexture(`powerup_${this.powerupType}_${Date.now()}`, 24, 24);
-        graphics.destroy();
+        // Only generate texture if it doesn't exist
+        if (!this.scene.textures.exists(texKey)) {
+            const graphics = this.scene.add.graphics();
+            graphics.fillStyle(color, 1);
+            graphics.fillCircle(0, 0, 10);
+            graphics.lineStyle(2, 0xffffff, 1);
+            graphics.strokeCircle(0, 0, 10);
+            graphics.generateTexture(texKey, 24, 24);
+            graphics.destroy();
+        }
 
-        this.sprite = this.scene.add.sprite(this.position.x, this.position.y, `powerup_${this.powerupType}_${Date.now()}`);
+        this.sprite = this.scene.add.sprite(this.position.x, this.position.y, texKey);
         this.sprite.setOrigin(0.5, 0.5);
         this.sprite.setBlendMode(Phaser.BlendModes.ADD);
     }

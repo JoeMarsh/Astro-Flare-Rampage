@@ -42,13 +42,18 @@ class PlayerShip extends Ship {
 
     createSprite() {
         // Create a simple triangle sprite for the player
-        const graphics = this.scene.add.graphics();
-        graphics.fillStyle(GameConfig.COLORS.PLAYER_SHIP_1, 1);
-        graphics.fillTriangle(0, -20, -15, 15, 15, 15);
-        graphics.generateTexture('player_ship', 30, 35);
-        graphics.destroy();
+        const texKey = 'player_ship';
 
-        this.sprite = this.scene.add.sprite(this.position.x, this.position.y, 'player_ship');
+        // Only generate texture if it doesn't exist
+        if (!this.scene.textures.exists(texKey)) {
+            const graphics = this.scene.add.graphics();
+            graphics.fillStyle(GameConfig.COLORS.PLAYER_SHIP_1, 1);
+            graphics.fillTriangle(0, -20, -15, 15, 15, 15);
+            graphics.generateTexture(texKey, 30, 35);
+            graphics.destroy();
+        }
+
+        this.sprite = this.scene.add.sprite(this.position.x, this.position.y, texKey);
         this.sprite.setOrigin(0.5, 0.5);
 
         // Add glow effect
