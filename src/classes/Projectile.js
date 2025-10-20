@@ -30,27 +30,12 @@ class Projectile extends GameNode {
     }
 
     createSprite() {
-        const color = this.type === 'player' ?
-            GameConfig.COLORS.LASER_GREEN :
-            GameConfig.COLORS.LASER_RED;
-
-        const texKey = `laser_${this.type}`;
-
-        // Only generate texture if it doesn't exist
-        if (!this.scene.textures.exists(texKey)) {
-            const graphics = this.scene.add.graphics();
-            graphics.fillStyle(color, 1);
-            graphics.fillRect(0, 0, 4, 12);
-            graphics.generateTexture(texKey, 4, 12);
-            graphics.destroy();
-        }
+        // Use appropriate laser sprite
+        const texKey = this.type === 'player' ? 'laser_green' : 'enemy_projectile';
 
         this.sprite = this.scene.add.sprite(this.position.x, this.position.y, texKey);
-        this.sprite.setOrigin(0.5, 0);
+        this.sprite.setOrigin(0.5, 0.5);
         this.sprite.setBlendMode(Phaser.BlendModes.ADD);
-
-        // Add glow
-        this.sprite.setScale(1.5);
     }
 
     update(deltaTime) {

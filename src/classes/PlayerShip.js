@@ -41,23 +41,27 @@ class PlayerShip extends Ship {
     }
 
     createSprite() {
-        // Create a simple triangle sprite for the player
-        const texKey = 'player_ship';
+        // Create container for multi-layer ship
+        this.spriteContainer = this.scene.add.container(this.position.x, this.position.y);
 
-        // Only generate texture if it doesn't exist
-        if (!this.scene.textures.exists(texKey)) {
-            const graphics = this.scene.add.graphics();
-            graphics.fillStyle(GameConfig.COLORS.PLAYER_SHIP_1, 1);
-            graphics.fillTriangle(0, -20, -15, 15, 15, 15);
-            graphics.generateTexture(texKey, 30, 35);
-            graphics.destroy();
-        }
+        // Determine ship type (0 = green, 1 = purple, 2 = light blue)
+        const shipNum = GameState.playerShipType || 0;
+        const shipName = `player${shipNum + 1}`;
 
-        this.sprite = this.scene.add.sprite(this.position.x, this.position.y, texKey);
-        this.sprite.setOrigin(0.5, 0.5);
+        // Add base layer
+        const base = this.scene.add.sprite(0, 0, `${shipName}_base`);
+        base.setOrigin(0.5, 0.5);
+        this.spriteContainer.add(base);
 
-        // Add glow effect
-        this.sprite.setBlendMode(Phaser.BlendModes.ADD);
+        // Add top layer
+        const top = this.scene.add.sprite(0, 0, `${shipName}_top`);
+        top.setOrigin(0.5, 0.5);
+        this.spriteContainer.add(top);
+
+        // Store reference to main sprite for updates
+        this.sprite = this.spriteContainer;
+        this.baseSprite = base;
+        this.topSprite = top;
     }
 
     setupInput() {

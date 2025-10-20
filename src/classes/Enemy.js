@@ -40,64 +40,41 @@ class Enemy extends Ship {
     }
 
     createSprite() {
-        // Create a simple enemy sprite based on type
-        const texKey = `enemy_${this.enemyType}`;
+        // Map enemy types to sprite names
+        const spriteMap = {
+            'interceptor': 'enemy_interceptor',
+            'chaser': 'enemy_claw',
+            'dasher': 'blueship2',
+            'avoider': 'enemy_avoider',
+            'shooter': 'enemy_shooter',
+            'boss1': 'boss1'
+        };
 
-        // Only generate texture if it doesn't exist
-        if (!this.scene.textures.exists(texKey)) {
-            const graphics = this.scene.add.graphics();
+        const spriteName = spriteMap[this.enemyType] || 'enemy_interceptor';
 
-            switch(this.enemyType) {
-                case 'interceptor':
-                    // Diamond shape
-                    graphics.fillStyle(0xff0000, 1);
-                    graphics.fillTriangle(0, -15, -12, 0, 0, 15);
-                    graphics.fillTriangle(0, -15, 12, 0, 0, 15);
-                    break;
-                case 'chaser':
-                    // Circle with spikes
-                    graphics.fillStyle(0xff00ff, 1);
-                    graphics.fillCircle(0, 0, 12);
-                    graphics.fillTriangle(0, -15, -5, -10, 5, -10);
-                    break;
-                case 'dasher':
-                    // Elongated triangle
-                    graphics.fillStyle(0xffaa00, 1);
-                    graphics.fillTriangle(0, -18, -8, 12, 8, 12);
-                    break;
-                case 'avoider':
-                    // Curved shape
-                    graphics.fillStyle(0x00ffff, 1);
-                    graphics.fillCircle(0, 0, 10);
-                    graphics.fillCircle(-8, 0, 6);
-                    graphics.fillCircle(8, 0, 6);
-                    break;
-                case 'shooter':
-                    // Large hexagon
-                    graphics.fillStyle(0xff4444, 1);
-                    graphics.fillCircle(0, 0, 15);
-                    graphics.fillRect(-12, -3, 24, 6);
-                    break;
-                case 'boss1':
-                    // Large imposing shape
-                    graphics.fillStyle(0xff0088, 1);
-                    graphics.fillCircle(0, 0, 25);
-                    graphics.fillTriangle(0, -30, -20, 0, 20, 0);
-                    graphics.fillTriangle(0, 30, -20, 0, 20, 0);
-                    break;
-                default:
-                    // Default red triangle
-                    graphics.fillStyle(0xff0000, 1);
-                    graphics.fillTriangle(0, -12, -10, 10, 10, 10);
-            }
+        // Create container for multi-layer ship
+        this.spriteContainer = this.scene.add.container(this.position.x, this.position.y);
 
-            const size = this.enemyType === 'boss1' ? 60 : 30;
-            graphics.generateTexture(texKey, size, size);
-            graphics.destroy();
+        // Add base layer
+        const baseName = spriteName + (spriteName === 'enemy_claw' ? '_bottom' : '_base');
+        if (this.scene.textures.exists(baseName)) {
+            const base = this.scene.add.sprite(0, 0, baseName);
+            base.setOrigin(0.5, 0.5);
+            this.spriteContainer.add(base);
+            this.baseSprite = base;
         }
 
-        this.sprite = this.scene.add.sprite(this.position.x, this.position.y, texKey);
-        this.sprite.setOrigin(0.5, 0.5);
+        // Add top layer
+        const topName = spriteName + '_top';
+        if (this.scene.textures.exists(topName)) {
+            const top = this.scene.add.sprite(0, 0, topName);
+            top.setOrigin(0.5, 0.5);
+            this.spriteContainer.add(top);
+            this.topSprite = top;
+        }
+
+        // Store reference to main sprite for updates
+        this.sprite = this.spriteContainer;
     }
 
     setTarget(target) {

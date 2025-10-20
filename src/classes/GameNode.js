@@ -45,9 +45,10 @@ class GameNode extends Node {
 
         // Flash effect
         this.hitFlashTime = this.hitFlashDuration;
-        if (this.sprite) {
-            this.sprite.setTint(0xff0000); // Red flash
-        }
+        // Apply tint to sprite layers
+        if (this.baseSprite) this.baseSprite.setTint(0xff0000);
+        if (this.topSprite) this.topSprite.setTint(0xff0000);
+        if (this.sprite && !this.baseSprite) this.sprite.setTint(0xff0000);
 
         // Check if dead
         if (this.health <= 0) {
@@ -113,8 +114,11 @@ class GameNode extends Node {
         // Update hit flash
         if (this.hitFlashTime > 0) {
             this.hitFlashTime -= deltaTime;
-            if (this.hitFlashTime <= 0 && this.sprite) {
-                this.sprite.clearTint();
+            if (this.hitFlashTime <= 0) {
+                // Clear tint from sprite layers
+                if (this.baseSprite) this.baseSprite.clearTint();
+                if (this.topSprite) this.topSprite.clearTint();
+                if (this.sprite && !this.baseSprite) this.sprite.clearTint();
             }
         }
 

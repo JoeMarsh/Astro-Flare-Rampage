@@ -31,21 +31,41 @@ class Powerup extends GameNode {
     }
 
     createSprite() {
-        const color = this.getPowerupColor();
-        const texKey = `powerup_${this.powerupType}`;
+        // Map powerup types to sprite names
+        const spriteMap = {
+            'health': 'powerup_health',
+            'shields': 'powerup_shields',
+            'doubleshot': 'powerup_bullet',
+            'tripleshot': 'powerup_bullet',
+            'missiles': 'powerup_missiles',
+            'shotspeed': 'powerup_speed',
+            'addbullet': 'powerup_add_projectile',
+            'autoburst': 'burstwave_powerup',
+            'freeze': 'powerup_time',
+            'slowall': 'powerup_time',
+            'damageall': 'powerup_laser',
+            'coin': 'coin5'
+        };
 
-        // Only generate texture if it doesn't exist
-        if (!this.scene.textures.exists(texKey)) {
-            const graphics = this.scene.add.graphics();
-            graphics.fillStyle(color, 1);
-            graphics.fillCircle(0, 0, 10);
-            graphics.lineStyle(2, 0xffffff, 1);
-            graphics.strokeCircle(0, 0, 10);
-            graphics.generateTexture(texKey, 24, 24);
-            graphics.destroy();
+        const texKey = spriteMap[this.powerupType] || 'powerup_circle';
+
+        // Handle coin animation (spritesheet)
+        if (this.powerupType === 'coin') {
+            this.sprite = this.scene.add.sprite(this.position.x, this.position.y, texKey, 0);
+            // Create coin animation if it doesn't exist
+            if (!this.scene.anims.exists('coin_spin')) {
+                this.scene.anims.create({
+                    key: 'coin_spin',
+                    frames: this.scene.anims.generateFrameNumbers('coin5', { start: 0, end: 15 }),
+                    frameRate: 15,
+                    repeat: -1
+                });
+            }
+            this.sprite.play('coin_spin');
+        } else {
+            this.sprite = this.scene.add.sprite(this.position.x, this.position.y, texKey);
         }
 
-        this.sprite = this.scene.add.sprite(this.position.x, this.position.y, texKey);
         this.sprite.setOrigin(0.5, 0.5);
         this.sprite.setBlendMode(Phaser.BlendModes.ADD);
     }
