@@ -45,11 +45,14 @@ class Ship extends GameNode {
     fire() {
         if (!this.scene.createProjectile) return;
 
+        // Use fireAngle if available (player with mouse aim), otherwise use rotation
+        const baseAngle = this.fireAngle !== undefined ? this.fireAngle : (this.rotation - Math.PI / 2);
+
         const angleStep = this.shotSpread;
         const startAngle = -(this.shotCount - 1) * angleStep / 2;
 
         for (let i = 0; i < this.shotCount; i++) {
-            const angle = this.rotation + startAngle + (i * angleStep);
+            const angle = baseAngle + startAngle + (i * angleStep);
             const dir = Vector2.fromAngle(angle);
 
             const offsetDist = 30; // Spawn projectile in front of ship

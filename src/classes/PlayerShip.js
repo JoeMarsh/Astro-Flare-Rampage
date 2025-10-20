@@ -102,20 +102,17 @@ class PlayerShip extends Ship {
             moveY = 1;
         }
 
-        // Apply acceleration if moving
+        // Apply acceleration if moving (WASD only moves, doesn't rotate)
         if (moveX !== 0 || moveY !== 0) {
             this.acceleration.set(moveX, moveY);
             this.acceleration.normalize();
             this.acceleration.multiply(this.baseAcceleration);
-
-            // Update rotation to face movement direction
-            this.rotation = Math.atan2(this.acceleration.y, this.acceleration.x) + Math.PI / 2;
         }
 
         // Apply acceleration to velocity
         this.velocity.add(this.acceleration);
 
-        // Mouse aiming - rotate ship to face mouse cursor
+        // Mouse aiming - ship ALWAYS faces mouse cursor
         const pointer = this.scene.input.activePointer;
         if (pointer.x > 0 || pointer.y > 0) { // Mouse is in the game area
             // Calculate angle to mouse cursor (in world coordinates)
@@ -124,10 +121,14 @@ class PlayerShip extends Ship {
             const dx = worldX - this.position.x;
             const dy = worldY - this.position.y;
 
-            // Only aim with mouse if not using keyboard for movement
-            if (moveX === 0 && moveY === 0) {
-                this.rotation = Math.atan2(dy, dx) + Math.PI / 2;
-            }
+            // Calculate the angle to mouse (this is the bullet direction)
+            const angleToMouse = Math.atan2(dy, dx);
+
+            // Store the firing angle (used by Ship.fire() method)
+            this.fireAngle = angleToMouse;
+
+            // Ship sprite rotation (add PI/2 because sprite faces up at 0 rotation)
+            this.rotation = angleToMouse + Math.PI / 2;
         }
 
         // Firing - spacebar or mouse click
