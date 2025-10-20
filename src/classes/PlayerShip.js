@@ -115,36 +115,25 @@ class PlayerShip extends Ship {
         // Apply acceleration to velocity
         this.velocity.add(this.acceleration);
 
-        // Firing
-        if (this.fireKey.isDown) {
-            this.startFire();
-        } else {
-            this.stopFire();
-        }
+        // Mouse aiming - rotate ship to face mouse cursor
+        const pointer = this.scene.input.activePointer;
+        if (pointer.x > 0 || pointer.y > 0) { // Mouse is in the game area
+            // Calculate angle to mouse cursor (in world coordinates)
+            const worldX = pointer.x + this.scene.cameras.main.scrollX;
+            const worldY = pointer.y + this.scene.cameras.main.scrollY;
+            const dx = worldX - this.position.x;
+            const dy = worldY - this.position.y;
 
-        // Touch/pointer input for mobile
-        if (this.scene.input.activePointer.isDown) {
-            const pointer = this.scene.input.activePointer;
-            const targetX = pointer.x;
-            const targetY = pointer.y;
-
-            // Move towards pointer
-            const dx = targetX - this.position.x;
-            const dy = targetY - this.position.y;
-            const dist = Math.sqrt(dx * dx + dy * dy);
-
-            if (dist > 20) { // Dead zone
-                this.acceleration.set(dx / dist, dy / dist);
-                this.acceleration.multiply(this.baseAcceleration);
-                this.velocity.add(this.acceleration);
-
-                // Face movement direction
+            // Only aim with mouse if not using keyboard for movement
+            if (moveX === 0 && moveY === 0) {
                 this.rotation = Math.atan2(dy, dx) + Math.PI / 2;
             }
+        }
 
-            // Auto-fire when touching
+        // Firing - spacebar or mouse click
+        if (this.fireKey.isDown || pointer.isDown) {
             this.startFire();
-        } else if (!this.fireKey.isDown) {
+        } else {
             this.stopFire();
         }
     }
