@@ -183,10 +183,20 @@ class GameScene extends Phaser.Scene {
     }
 
     createPlaceholderSounds() {
-        // Create simple placeholder sounds
-        // In production, you would load actual audio files
-        if (!this.sound.get('shoot')) {
-            // Shoot sound will be created programmatically or you can add audio files
+        // Helper method to safely play sounds
+        // Sounds are optional - game will work without them
+        this.soundsEnabled = false; // Set to true when you add actual sound files
+    }
+
+    // Safe sound playing helper
+    playSound(key, config = {}) {
+        if (!this.soundsEnabled) return;
+        try {
+            if (this.sound && this.sound.get(key)) {
+                this.sound.play(key, config);
+            }
+        } catch (e) {
+            console.warn(`Sound ${key} could not be played:`, e);
         }
     }
 

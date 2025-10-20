@@ -100,9 +100,9 @@ class Powerup extends GameNode {
         // Override in subclasses
         console.log(`Powerup ${this.powerupType} collected`);
 
-        // Play pickup sound
-        if (this.scene.sound) {
-            this.scene.sound.play('powerup', { volume: GameConfig.AUDIO.SFX_VOLUME * 0.5 });
+        // Play pickup sound (if available)
+        if (this.scene.playSound) {
+            this.scene.playSound('powerup', { volume: GameConfig.AUDIO.SFX_VOLUME * 0.5 });
         }
     }
 

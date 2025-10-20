@@ -87,9 +87,9 @@ class GameNode extends Node {
             this.scene.createExplosion(this.position.x, this.position.y);
         }
 
-        // Play explosion sound
-        if (this.scene.sound) {
-            this.scene.sound.play('explosion', { volume: GameConfig.AUDIO.SFX_VOLUME });
+        // Play explosion sound (if available)
+        if (this.scene.playSound) {
+            this.scene.playSound('explosion', { volume: GameConfig.AUDIO.SFX_VOLUME });
         }
     }
 

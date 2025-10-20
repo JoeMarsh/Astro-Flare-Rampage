@@ -66,9 +66,9 @@ class Ship extends GameNode {
             );
         }
 
-        // Play fire sound
-        if (this.scene.sound) {
-            this.scene.sound.play('shoot', {
+        // Play fire sound (if available)
+        if (this.scene.playSound) {
+            this.scene.playSound('shoot', {
                 volume: GameConfig.AUDIO.SFX_VOLUME * 0.3
             });
         }
